@@ -6,9 +6,8 @@ COPY repositories /etc/apk/repositories
 # INSTALLATION
 RUN apk add apache2
 # CONFIGURATION
-WORKDIR /root
-RUN mkdir .bitcoin
-COPY bitcoin.conf /root/.bitcoin/bitcoin.conf
+WORKDIR /var/www
+COPY index.html index.html
 # CONTEXTUALISATION
 VOLUME ["/var/www"]
 EXPOSE 80
