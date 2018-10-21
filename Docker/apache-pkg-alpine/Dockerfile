@@ -12,4 +12,4 @@ COPY index.html /var/www/localhost/htdocs/index.html
 VOLUME ["/var/www/localhost/htdocs"]
 EXPOSE 80
 # DAEMONIZATION
-ENTRYPOINT ["rc-service","apache2","start"]
+ENTRYPOINT ["/usr/sbin/httpd","-D","FOREGROUND"]
