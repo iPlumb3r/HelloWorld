@@ -6,10 +6,10 @@ RUN apk update
 # INSTALLATION
 RUN apk add apache2
 # CONFIGURATION
-WORKDIR /var/www/localhost/htdocs
+WORKDIR /var/www
 COPY index.html index.html
 # CONTEXTUALISATION
-VOLUME ["/var/www/localhost/htdocs"]
+VOLUME ["/var/www"]
 EXPOSE 80
 # DAEMONIZATION
 CMD ["-D", "FOREGROUND"]
