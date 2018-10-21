@@ -12,4 +12,4 @@ COPY index.html index.html
 VOLUME ["/var/www/localhost/htdocs"]
 EXPOSE 80
 # DAEMONIZATION
-ENTRYPOINT ["/usr/bin/apache2"]
+ENTRYPOINT ["/usr/lib/apache2"]
