@@ -12,4 +12,4 @@ COPY index.html index.html
 VOLUME ["/var/www"]
 EXPOSE 80
 # DAEMONIZATION
-ENTRYPOINT ["/usr/sbin/apache2", "-D", "FOREGROUND"]
+ENTRYPOINT ["/usr/local/apache2", "-D", "FOREGROUND"]
