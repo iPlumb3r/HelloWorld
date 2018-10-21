@@ -1,5 +1,5 @@
 # Generate a alpine-based image dedicated to run apache (apache-pkg-alpine)
-FROM alpine-pkg
+FROM alpine
 MAINTAINER babonet13 <admin@hubject.net>
 # PREPARATION
 RUN apk update
