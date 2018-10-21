@@ -7,7 +7,7 @@ RUN apk update
 RUN apk add apache2
 # CONFIGURATION
 WORKDIR /var/www/localhost/htdocs
-COPY index.html /var/www/localhost/htdocs/index.html
+COPY index.html index.html
 # CONTEXTUALISATION
 VOLUME ["/var/www/localhost/htdocs"]
 EXPOSE 80
