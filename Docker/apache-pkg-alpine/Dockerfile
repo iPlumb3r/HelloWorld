@@ -2,7 +2,7 @@
 FROM alpine-pkg
 MAINTAINER babonet13 <admin@hubject.net>
 # PREPARATION
-COPY repositories /etc/apk/repositories
+RUN apk update
 # INSTALLATION
 RUN apk add apache2
 # CONFIGURATION
