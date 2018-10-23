@@ -9,7 +9,7 @@ RUN a2enmod cgi
 # CONFIGURATION
 WORKDIR /etc/apache2
 COPY apache2.conf apache2.conf
-COPY 000-default.conf /sites-available/000-default.conf
+COPY 000-default.conf sites-available/000-default.conf
 # CONTEXTUALISATION
 VOLUME ["/var/www"]
 EXPOSE 80
