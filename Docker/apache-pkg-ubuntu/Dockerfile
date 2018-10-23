@@ -5,7 +5,7 @@ MAINTAINER babonet13 <admin@hubject.net>
 RUN apt-get update
 # INSTALLATION
 RUN apt-get install -y apache2
-RUN a2emod cgi
+RUN a2enmod cgi
 # CONFIGURATION
 WORKDIR /etc/apache2
 COPY apache.conf apache.conf
