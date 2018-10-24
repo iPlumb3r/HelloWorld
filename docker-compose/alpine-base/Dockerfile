@@ -1,5 +1,7 @@
 # Generate a alpine-based image dedicated to install software from pakages (alpine-pkg)
 FROM alpine AS alpine-pkg
+WORKDIR /etc/apk
+COPY repositories repositories
 RUN apk update
 # Packages dedicated to manages packages
 RUN apk add ca-certificates
