@@ -4,11 +4,14 @@ services:
         build:
             context: .
             dockerfile: Dockerfile
+            target: ubuntu-pkg
     ubuntu-bin:
         build:
             context: .
             dockerfile: Dockerfile
+            target: ubuntu-bin
     ubuntu-src:
         build:
             context: .
             dockerfile: Dockerfile
+            target: ubuntu-src
