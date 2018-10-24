@@ -1,5 +1,5 @@
 #!/bin/sh
 ls
 mkdir test
-cd test
 touch ici.txt
+echo "content" >> ici.txt
