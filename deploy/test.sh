@@ -1,4 +1,4 @@
 #!/bin/sh
 ls
-mkdit test
+mkdir test
 cd test
