@@ -1,14 +1,8 @@
 version: '3'
 services:
     ubuntu-pkg:
-        build:
-        context: .
-        target: ubuntu-pkg
+        build: ubuntu-pkg
     ubuntu-bin:
-        build:
-        context: .
-        target: ubuntu-bin
+        build: ubuntu-bin
     ubuntu-src:
-        build:
-        context: .
-target: ubuntu-src
+        build: ubuntu-src
