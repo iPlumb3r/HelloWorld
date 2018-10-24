@@ -1,5 +1,6 @@
 # Generate a ubuntu-based image dedicated to install software from pakages (ubuntu-pkg)
 FROM ubuntu AS ubuntu-pkg
+RUN apt-get update
 # Packages dedicated to manages packages
 RUN apt-get install -y software-properties-common
 RUN apt-get install -y apt-utils
