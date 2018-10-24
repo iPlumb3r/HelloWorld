@@ -1,7 +1,7 @@
 # Generate a alpine-based image dedicated to install software from pakages (alpine-pkg)
 FROM alpine AS alpine-pkg
 RUN apk update
-# Package dedicated to check authenticity
+# Packages dedicated to manages packages
 RUN apk add ca-certificates
 RUN apk add util-linux python3
 
