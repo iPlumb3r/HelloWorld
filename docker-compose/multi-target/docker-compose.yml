@@ -1,8 +1,14 @@
 version: '3'
 services:
     ubuntu-pkg:
-        build: ubuntu-pkg
+        build:
+            context: .
+            dockerfile: Dockerfile
     ubuntu-bin:
-        build: ubuntu-bin
+        build:
+            context: .
+            dockerfile: Dockerfile
     ubuntu-src:
-        build: ubuntu-src
+        build:
+            context: .
+            dockerfile: Dockerfile
