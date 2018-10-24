@@ -1,0 +1,17 @@
+version: '3.4'
+services:
+    alpine-pkg:
+        build:
+            context: .
+            dockerfile: Dockerfile
+            target: alpine-pkg
+    alpine-bin:
+        build:
+            context: .
+            dockerfile: Dockerfile
+            target: ubuntu-bin
+    ubuntu-src:
+        build:
+            context: .
+            dockerfile: Dockerfile
+            target: alpine-src
