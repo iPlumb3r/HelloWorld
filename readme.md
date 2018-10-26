@@ -24,7 +24,7 @@ Liste des technologies :
         <tr>
             <td>docker-compose</td>
             <td>Docker</td>
-            <td align="right">value</td>
+            <td>value</td>
         </tr>
         <tr>
             <td>HTML</td>
