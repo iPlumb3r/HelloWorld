@@ -12,24 +12,24 @@ Liste des technologies :
         <tr>
             <th>Technologie</th>
             <th>Supplier</th>
-            <th>header 3</th>
+            <th>OK/KO</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>Docker</td>
             <td>Docker</td>
-            <td>value</td>
+            <td>OK</td>
         </tr>
         <tr>
             <td>docker-compose</td>
             <td>Docker</td>
-            <td>value</td>
+            <td>OK</td>
         </tr>
         <tr>
             <td>HTML</td>
             <td>W3C</td>
-            <td>value</td>
+            <td>OK</td>
         </tr>
     </tbody>
 </table>
