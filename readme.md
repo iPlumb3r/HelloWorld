@@ -7,6 +7,7 @@ Repository dedicated to :
 * dévelopment  
 
 Liste des technologies :
+| aeze | aaza |
 <table>
     <thead>
         <tr>
