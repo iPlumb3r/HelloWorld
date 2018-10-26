@@ -4,31 +4,32 @@ Title 2 : Objective
 -
 Repository dedicated to :
 * test
-* dévelopment
-Liste des technologies
+* dévelopment  
+
+Liste des technologies :
 <table>
     <thead>
         <tr>
-            <th>header 1</th>
-            <th align="center">header 2</th>
-            <th align="right">header 3</th>
+            <th>Technologie</th>
+            <th>Supplier</th>
+            <th>header 3</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>line 1</td>
-            <td align="center">1</td>
+            <td>Docker</td>
+            <td>Docker</td>
+            <td>value</td>
+        </tr>
+        <tr>
+            <td>docker-compose</td>
+            <td>Docker</td>
             <td align="right">value</td>
         </tr>
         <tr>
-            <td>row 2</td>
-            <td align="center">2</td>
-            <td align="right">value</td>
-        </tr>
-        <tr>
-            <td>line 3</td>
-            <td align="center">3</td>
-            <td align="right">value</td>
+            <td>HTML</td>
+            <td>W3C</td>
+            <td>value</td>
         </tr>
     </tbody>
 </table>
