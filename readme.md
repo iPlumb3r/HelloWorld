@@ -34,8 +34,7 @@ Liste des technologies :
     </tbody>
 </table>
 
-<pre><code>
-$ sudo apk update
+<pre><code>$ sudo apk update
 $ sudo apk add docker
 </code></pre>
 
