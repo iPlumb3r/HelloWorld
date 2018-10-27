@@ -34,4 +34,6 @@ Liste des technologies :
     </tbody>
 </table>
 
+<pre><code>$ sudo apk update</code></pre>
+
 <a href="https://github.com/babonet13/HelloWorld/">HelloWorld Repository</a>
