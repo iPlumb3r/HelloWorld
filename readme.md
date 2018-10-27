@@ -34,7 +34,9 @@ Liste des technologies :
     </tbody>
 </table>
 
-<pre><code>$ sudo apk update
-$sudo apk add docker</code></pre>
+<pre><code>
+$ sudo apk update
+$ sudo apk add docker
+</code></pre>
 
 <a href="https://github.com/babonet13/HelloWorld/">HelloWorld Repository</a>
