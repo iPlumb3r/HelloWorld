@@ -28,3 +28,8 @@ Install Docker-CE
 Add your current user to th e"docker" group and apply this adding
 <pre><code>$ sudo usermod -aG docker babonet13
 su - babonet13</code></pre>
+
+Test
+-
+Run the "hello-world" Dcoker container
+<pre><code>$ docker run hello-world</code></pre>
