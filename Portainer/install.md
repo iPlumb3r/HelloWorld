@@ -24,9 +24,10 @@ Edit the Docker daemon configuration file
 <pre><code>$ sudo nano /etc/docker/daemon.json</code></pre>
 
 Add the following lines (where 192.168.1.99 is the IP address of the host)
-<pre><code>
-{   
+<pre><code>{   
 	"debug": true,
 	"hosts":["unix:///var/run/docker.sock","tcp://192.168.1.99:2375"]
-}
-</code></pre>
+}</code></pre>
+
+Restart the Docker daemon
+<pre><code>$ sudo dockerd restart</code></pre>
