@@ -10,7 +10,7 @@ Docker must be installed on your machine : See <A href="https://github.com/babon
 
 Install
 - 
-Download the latest version of "docker-comose" (Check <a href="https://github.com/docker/compose/releases">offical web page</a> for the latest version) :
+Download the latest version of "docker-compose" (Check <a href="https://github.com/docker/compose/releases">offical web page</a> for the latest version) :
 <pre><code>$ curl -L https://github.com/docker/compose/releases/download/1.23.0-rc3/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose</code></pre>
 
 Make "docker-compose" exacutable
