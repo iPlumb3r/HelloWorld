@@ -2,7 +2,7 @@ Docker : Installation guide
 ==
 Resources
 -
-<a href="https://docs.docker.com/install/linux/docker-ce/ubuntu/">Get Docker CE for Ubuntu</a>
+<a href="https://docs.docker.com/install/linux/docker-ce/ubuntu">Get Docker CE for Ubuntu</a>
 
 Prerequisites 
 -
