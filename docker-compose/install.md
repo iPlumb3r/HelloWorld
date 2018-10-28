@@ -1,4 +1,4 @@
-Docker : Installation guide
+docker-compose : Installation guide
 ==
 Resources
 -
