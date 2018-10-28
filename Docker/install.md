@@ -1,5 +1,9 @@
 Docker : Installation guide
 ==
+Resources
+-
+<a href="https://docs.docker.com/install/linux/docker-ce/ubuntu/">Get Docker CE for Ubuntu</a>
+
 Prerequisites 
 -
 <pre><code>$ sudo apt-install -y curl</code></pre>
