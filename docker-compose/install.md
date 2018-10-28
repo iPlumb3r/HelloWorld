@@ -6,7 +6,7 @@ Resources
 
 Prerequisites 
 -
-Docker is installed on your machine : See <a href="https://github.com/babonet13/HelloWorld/blob/master/Docker/install.md">How to Use Docker Compose</a>">here</a>">for the instruction
+Docker is installed on your machine : See <a href="https://github.com/babonet13/HelloWorld/blob/master/Docker/install.md">How to Use Docker Compose">here</a> for the instructions. 
 
 Install
 - 
