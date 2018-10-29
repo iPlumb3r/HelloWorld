@@ -1,6 +1,17 @@
 Automatic installation (for Ubuntu/Debian)
+==
+Hello World Script
 -
-to the following script
+Script
 <pre><code>$ sudo curl https://raw.githubusercontent.com/babonet13/HelloWorld/master/SH-Script/hello-world.sh | sh</code></pre>
 
-You can see the detail of this script <a href="https://github.com/babonet13/HelloWorld/blob/master/SH-Script/hello-world.sh">here</a>.
+View <a href="https://github.com/babonet13/HelloWorld/blob/master/SH-Script/hello-world.sh">here</a>.
+Edit <a href="https://github.com/babonet13/HelloWorld/SH-Script/hello-world.sh">here</a>.
+
+Docker Install
+-
+Script
+<pre><code>$ sudo curl https://raw.githubusercontent.com/babonet13/HelloWorld/master/SH-Script/hello-world.sh | sh</code></pre>
+
+View <a href="https://github.com/babonet13/HelloWorld/blob/master/SH-Script/hello-world.sh">here</a>.
+Edit <a href="https://github.com/babonet13/HelloWorld/SH-Script/hello-world.sh">here</a>.
