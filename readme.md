@@ -40,4 +40,4 @@ $ sudo apk add docker
 
 <a href="https://github.com/babonet13/HelloWorld/">HelloWorld Repository</a>
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/babonet13/HelloWorld/blob/master/Portainer.png)
