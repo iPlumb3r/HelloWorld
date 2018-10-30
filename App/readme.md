@@ -1,3 +1,3 @@
 App Section
 ==
-This section is dedicated to provide instruction for installing usefull application
+This section is dedicated to provide instructions for installing usefull application
