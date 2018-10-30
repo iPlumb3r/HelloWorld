@@ -8,7 +8,7 @@ This repository contains content for making development activities easier by pro
 * instructions
 * file templates  
 
-Section of this repository :
+Sections of this repository :
 <table>
     <thead>
         <tr>
