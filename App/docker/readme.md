@@ -44,7 +44,8 @@ Reference(s)
 
 Prerequisite(s)
 -
-Docker must be installed : See installation guide <a href="https://github.com/babonet13/HelloWorld/edit/master/App/_app/readme.md">here</a>
+Curl must be installed. If not installed do :
+<pre><code>$ sudo apt-install -y curl</code></pre>
 
 Installation (Script Mode)
 -
