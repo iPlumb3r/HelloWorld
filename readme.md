@@ -1,7 +1,8 @@
 HelloWorld Repository
 ==
-This repository is dedicated to provide commons ressources for the others repositories
- Objective
+This repository is dedicated to provide commons ressources for the others repositories. 
+
+Objective
 -
 This repository contains content for making development activities easier by providing :
 * instructions
