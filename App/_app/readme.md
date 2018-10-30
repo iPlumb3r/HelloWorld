@@ -2,34 +2,38 @@ _aap : Installation Guide (Package-based - Ubuntu/Debian)
 ==
 Id Card
 -
-Liste des technologies :
+Keys criterias :
 <table>
     <thead>
         <tr>
-            <th>Technologie</th>
-            <th>Supplier</th>
+            <th>Criteria</th>
+            <th>Value</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Docker</td>
-            <td>Docker</td>
+            <td>Linux Distro</td>
+            <td>Ubuntu/Debian</td>>
         </tr>
         <tr>
-            <td>docker-compose</td>
-            <td>Docker</td>
+            <td>Install Mode</td>
+            <td>Distro Specific Package</td>>
         </tr>
         <tr>
-            <td>HTML</td>
-            <td>W3C</td>
+            <td>Installed Binary</td>
+            <td>/usr/sbin/apache2</td>>
         </tr>
         <tr>
-            <td>HTML</td>
-            <td>W3C</td>
+            <td>Configuration File</td>
+            <td>/etc/apache2/httpd.conf</td>>
         </tr>
         <tr>
-            <td>HTML</td>
-            <td>W3C</td>
+            <td>Data Directory</td>
+            <td>/var/www</td>>
+        </tr>
+        <tr>
+            <td>Default Port</td>
+            <td>80</td>>
         </tr>
     </tbody>
 </table>
