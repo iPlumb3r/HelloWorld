@@ -59,7 +59,9 @@ Configuration
 Edit apache2.conf
 <pre><code>$ sudo nano /etc/apache2/apache2.conf</code></pre>
 
-Tweek as you need
+Tweek as you need ... An the restart apache2 service
+<pre><code>$ sudo systemctl restart apache2</code></pre>
+
 
 Test
 --
