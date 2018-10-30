@@ -1,8 +1,3 @@
-_aap : Installation Guide (Package-based - Ubuntu/Debian)
-==
-Id Card
--
-Keys criterias :
 <table>
     <thead>
         <tr>
