@@ -36,17 +36,20 @@ Id Card
         </tr>
     </tbody>
 </table>
-TABLE
+
 Reference(s)
 -
+
 Prerequisite(s)
 -
-Install curl
-<pre><code>$ sudo apt-get install -y curl update</code></pre>
+
+Docker must be installed. See installation guide<a href="https://github.com/babonet13/HelloWorld/edit/master/App/_app/readme.md">here</a>
+
 Installation
 -
 Install curl
 <pre><code>$ sudo apt-get install -y curl update</code></pre>
+
 Prerequisite(s)
 -
 Configuration
