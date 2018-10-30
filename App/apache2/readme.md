@@ -1,4 +1,4 @@
-_aap : Installation Guide (Package-based - Ubuntu/Debian)
+apache2 : Installation Guide (Package-based - Ubuntu/Debian)
 ==
 Id Card
 -
@@ -68,6 +68,6 @@ Configuration
 Edit apache2.conf
 <pre><code>$ sudo nano /etc/apache2/apache2.conf</code></pre>
 
-Tweek as you need ... An the restart apache2 service
+Tweek as you need ... And the restart apache2 service
 <pre><code>$ sudo systemctl restart apache2</code></pre>
 
