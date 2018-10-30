@@ -85,7 +85,7 @@ Add the following lines (where 192.168.1.99 is the IP address of the host)
 }</code></pre>
 
 Restart the Docker daemon
-<pre><code>$ sudo dockerd restart</code></pre>
+<pre><code>$ sudo dockerd</code></pre>
 
 Test
 -
