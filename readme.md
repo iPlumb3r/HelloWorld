@@ -1,42 +1,42 @@
 Title 1 : HelloWorld Repository
 ==
+This repository is dedicated to provide commons ressources for the others repositories
+
 Title 2 : Objective
 -
-Repository dedicated to :
-* test
-* dévelopment  
+This repository contains content for making development activities easier by providing :
+* instructions
+* file templates  
 
-Liste des technologies :
+Section of this repository :
 <table>
     <thead>
         <tr>
-            <th>Technologie</th>
-            <th>Supplier</th>
-            <th>OK/KO</th>
+            <th>Section</th>
+            <th>Content</th>
+            <th>Comment/</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Docker</td>
-            <td>Docker</td>
-            <td>OK</td>
+            <td>App</td>
+            <td>Installation installation instructions</td>
+            <td>Provided by default for Ubuntu/Debian Linux Distro</td>
         </tr>
         <tr>
-            <td>docker-compose</td>
-            <td>Docker</td>
-            <td>OK</td>
+            <td>File</td>
+            <td>Template of file</td>
+            <td></td>
         </tr>
         <tr>
-            <td>HTML</td>
-            <td>W3C</td>
-            <td>OK</td>
+            <td>Hardware</td>
+            <td>Instruction for setting up a Linux-based machine</td>
+            <td>Physical machine and/or virtual machine</td>
         </tr>
     </tbody>
 </table>
 
-<pre><code>$ sudo apk update
-$ sudo apk add docker
-</code></pre>
+<pre><code>$ sudo apk update</code></pre>
 
 <a href="https://github.com/babonet13/HelloWorld/">HelloWorld Repository</a>
 
