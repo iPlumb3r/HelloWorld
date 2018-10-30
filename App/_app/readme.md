@@ -13,70 +13,34 @@ Keys criterias :
     <tbody>
         <tr>
             <td>Linux Distro</td>
-            <td>Ubuntu/Debian</td>>
-        </tr>
-        <tr>
-            <td>docker-compose</td>
-            <td>Docker</td>
-        </tr>
-        <tr>
-            <td>HTML</td>
-            <td>W3C</td>
-        </tr>
-        <tr>
-            <td>HTML</td>
-            <td>W3C</td>
-        </tr>
-        <tr>
-            <td>HTML</td>
-            <td>W3C</td>
-        </tr>
-        <tr>
-            <td>HTML</td>
-            <td>W3C</td>
-        </tr>
-    </tbody>
-</table>
-
-Keys criterias :
-<table>
-    <thead>
-        <tr>
-            <th>Criteria</th>
-            <th>Value</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Linux Distro</td>
-            <td>Ubuntu/Debian</td>>
+            <td>Ubuntu/Debian</td>
         </tr>
         <tr>
             <td>Install Mode</td>
-            <td>Distro Specific Package</td>>
+            <td>Distro Specific Package</td>
         </tr>
         <tr>
             <td>Installed Binary</td>
-            <td>/usr/sbin/apache2</td>>
+            <td>/usr/sbin/apache2</td>
         </tr>
         <tr>
             <td>Configuration File</td>
-            <td>/etc/apache2/httpd.conf</td>>
+            <td>/etc/apache2/httpd.conf</td>
         </tr>
         <tr>
             <td>Data Directory</td>
-            <td>/var/www</td>>
+            <td>/var/www</td>
         </tr>
         <tr>
             <td>Default Port</td>
-            <td>80</td>>
+            <td>80</td>
         </tr>
     </tbody>
 </table>
 
 Reference(s)
 -
-
+<a href="https://docs.docker.com/install/linux/docker-ce/ubuntu/">Get Docker CE for Ubuntu</a>
 Prerequisite(s)
 -
 
