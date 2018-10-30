@@ -1,8 +1,7 @@
-Title 1 : HelloWorld Repository
+HelloWorld Repository
 ==
 This repository is dedicated to provide commons ressources for the others repositories
-
-Title 2 : Objective
+ Objective
 -
 This repository contains content for making development activities easier by providing :
 * instructions
@@ -36,6 +35,8 @@ Section of this repository :
     </tbody>
 </table>
 
+ Template
+-
 <pre><code>$ sudo apk update</code></pre>
 
 <a href="https://github.com/babonet13/HelloWorld/">HelloWorld Repository</a>
