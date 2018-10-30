@@ -1,6 +1,7 @@
 _aap : Installation Guide (Package-based - Ubuntu/Debian)
 ==
 Id Card
+-
 Liste des technologies :
 <table>
     <thead>
@@ -28,7 +29,7 @@ Liste des technologies :
         </tr>
     </tbody>
 </table>
--
+
 Keys criterias :
 <table>
     <thead>
