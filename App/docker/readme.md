@@ -89,6 +89,6 @@ Restart the Docker daemon
 
 Test
 -
-Run the "hello-world" Dcoker container
+Run the "hello-world" Docker container
 <pre><code>$ docker run hello-world</code></pre>
 
