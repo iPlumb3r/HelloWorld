@@ -54,15 +54,6 @@ Update packages list
 Install apache2
 <pre><code>$ sudo apt-get install -y apache2</code></pre>
 
-Configuration
--
-Edit apache2.conf
-<pre><code>$ sudo nano /etc/apache2/apache2.conf</code></pre>
-
-Tweek as you need ... An the restart apache2 service
-<pre><code>$ sudo systemctl restart apache2</code></pre>
-
-
 Test
 --
 Check that the apache2 service is running
@@ -71,4 +62,12 @@ Check that the apache2 service is running
 Open a Web Browser (Assuming than 192.168.1.99 is the IP address of the host that running Apache2)
 <pre><code>$ http://192.168.1.99</code></pre>
 You must see a Hello World page ...
+
+Configuration
+-
+Edit apache2.conf
+<pre><code>$ sudo nano /etc/apache2/apache2.conf</code></pre>
+
+Tweek as you need ... An the restart apache2 service
+<pre><code>$ sudo systemctl restart apache2</code></pre>
 
