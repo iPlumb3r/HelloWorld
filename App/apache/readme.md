@@ -40,7 +40,7 @@ Keys criterias :
 
 Reference(s)
 -
-<a href="https://docs.docker.com/install/linux/docker-ce/ubuntu/">Get Docker CE for Ubuntu</a>.  
+<a href="https://linuxize.com/post/how-to-install-apache-on-ubuntu-18-04/">How To Install Apache on Ubuntu 18.04</a>.  
 
 Prerequisite(s)
 -
@@ -63,6 +63,9 @@ Tweek as you need
 
 Test
 --
+Check that the apache2 service is running
+<pre><code>$ sudo systemctl status apache2</code></pre>
+
 Open a Web Browser (Assuming than 192.168.1.99 is the IP address of the host that running Apache2)
 <pre><code>$ http://192.168.1.99</code></pre>
 You must see a Hello World page ...
