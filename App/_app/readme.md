@@ -12,8 +12,8 @@ Keys criterias :
     </thead>
     <tbody>
         <tr>
-            <td>Docker</td>
-            <td>Docker</td>
+            <td>Linux Distro</td>
+            <td>Ubuntu/Debian</td>>
         </tr>
         <tr>
             <td>docker-compose</td>
