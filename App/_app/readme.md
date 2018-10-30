@@ -2,6 +2,7 @@ _aap : Installation Guide (Package-based - Ubuntu/Debian)
 ==
 Id Card
 -
+Keys criterias :
 <table>
     <thead>
         <tr>
@@ -50,11 +51,10 @@ Installation
 Install curl
 <pre><code>$ sudo apt-get install -y curl update</code></pre>
 
-Prerequisite(s)
--
 Configuration
 -
 Bla bla ...
+
 Test
 -
 Bla bla ...
