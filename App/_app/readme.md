@@ -31,6 +31,10 @@ Keys criterias :
             <td>HTML</td>
             <td>W3C</td>
         </tr>
+        <tr>
+            <td>HTML</td>
+            <td>W3C</td>
+        </tr>
     </tbody>
 </table>
 
