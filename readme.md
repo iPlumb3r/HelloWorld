@@ -14,22 +14,22 @@ Section of this repository :
         <tr>
             <th>Section</th>
             <th>Content</th>
-            <th>Comment/</th>
+            <th>Comment</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>App</td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/App">App</a></td>
             <td>Installation installation instructions</td>
             <td>Provided by default for Ubuntu/Debian Linux Distro</td>
         </tr>
         <tr>
-            <td>File</td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/File">File</a></td>
             <td>Template of file</td>
             <td></td>
         </tr>
         <tr>
-            <td>Hardware</td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Hardware">Hardware</a></td>
             <td>Instruction for setting up a Linux-based machine</td>
             <td>Physical machine and/or virtual machine</td>
         </tr>
