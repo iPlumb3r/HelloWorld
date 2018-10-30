@@ -20,8 +20,8 @@ Keys criterias :
             <td>Distro Specific Package</td>>
         </tr>
         <tr>
-            <td>Install Directory</td>
-            <td>/usr/bin</td>>
+            <td>Installed Binary</td>
+            <td>/usr/sbin/apache2</td>>
         </tr>
         <tr>
             <td>Configuration File</td>
