@@ -44,8 +44,7 @@ Reference(s)
 
 Prerequisite(s)
 -
-Docker must be installed.  
-See installation guide <a href="https://github.com/babonet13/HelloWorld/edit/master/App/_app/readme.md">here</a>
+Docker must be installed : See installation guide <a href="https://github.com/babonet13/HelloWorld/edit/master/App/_app/readme.md">here</a>
 
 Installation
 -
