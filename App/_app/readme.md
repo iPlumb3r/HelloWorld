@@ -12,28 +12,24 @@ Keys criterias :
     </thead>
     <tbody>
         <tr>
-            <td>Linux Distro</td>
-            <td>Ubuntu/Debian</td>>
+            <td>Docker</td>
+            <td>Docker</td>
         </tr>
         <tr>
-            <td>Install Mode</td>
-            <td>Distro Specific Package</td>>
+            <td>docker-compose</td>
+            <td>Docker</td>
         </tr>
         <tr>
-            <td>Installed Binary</td>
-            <td>/usr/sbin/apache2</td>>
+            <td>HTML</td>
+            <td>W3C</td>
         </tr>
         <tr>
-            <td>Configuration File</td>
-            <td>/etc/apache2/httpd.conf</td>>
+            <td>HTML</td>
+            <td>W3C</td>
         </tr>
         <tr>
-            <td>Data Directory</td>
-            <td>/var/www</td>>
-        </tr>
-        <tr>
-            <td>Default Port</td>
-            <td>80</td>>
+            <td>HTML</td>
+            <td>W3C</td>
         </tr>
     </tbody>
 </table>
