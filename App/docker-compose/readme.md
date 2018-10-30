@@ -40,7 +40,7 @@ Keys criterias :
 
 Reference(s)
 -
-<a href="https://docs.docker.com/install/linux/docker-ce/ubuntu/">Get Docker CE for Ubuntu</a>.  
+<a href="https://linode.com/docs/applications/containers/how-to-use-docker-compose">How to Use Docker Compose</a>. 
 
 Prerequisite(s)
 -
