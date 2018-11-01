@@ -55,7 +55,7 @@ Run the portainer-node container based on the portainer image (on the standard P
 <pre><code>$ docker run -d -p 9000:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
 
 Run the portainer-node container based on the portainer image (on the standard HTTP Web port : 80)
-<pre><code>$ docker run -d -p !à:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
+<pre><code>$ docker run -d -p 80:9000 -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data --name portainer-node portainer/portainer</code></pre>
 
 Configuration
 -
