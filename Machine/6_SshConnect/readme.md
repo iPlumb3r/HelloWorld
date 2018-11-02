@@ -1,10 +1,15 @@
 SSH Connect to a Linux-based machine
 ==
 
-Objective : 
+Objective (Why ?)
 -
+To Be Done ...
 
-Step by step procedure 
+Desciption (What ?)
+-
+To Be Done ...
+
+Instructions (How ?)
 -
 You just need to achieve those steps :
 <table>
