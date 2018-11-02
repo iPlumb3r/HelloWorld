@@ -3,7 +3,7 @@ Buy A "Nude" Physical Machine
 
 Objective (Why ?)
 -
-Get a machine for your final usage
+Get an "OS free" machine for your final usage
 
 Description (What ?)
 -
