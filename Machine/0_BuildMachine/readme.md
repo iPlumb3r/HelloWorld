@@ -30,13 +30,13 @@ You just need to achieve those steps :
         </tr>
          <tr>
             <th>1</th>     
-            <td>Select the target components</td>
+            <td>Select target components</td>
             <td>Carrefully compare the project needs with the component specifciations</td>
             <td></td>
         </tr>
         <tr>
             <th>2</th>     
-            <td>Select the potentials merchant</td>
+            <td>Select the potentials merchants</td>
             <td>Use price comparator site</td>
             <td>many component are available at several places</td>
         </tr>
