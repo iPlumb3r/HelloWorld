@@ -26,19 +26,19 @@ You just need to achieve those steps :
             <th>0</th>     
             <td>Give a name to the machine</td>
             <td>Define the hostname</td>
-            <td>Link to be add soon ...</A></td>
+            <td>Link to be add soon ...</td>
         </tr>
          <tr>
              <th>1</th>     
             <td>Give a fixed LAN IP address to the machine</td>
             <td>Modify the /etc/network/interfaces configuration file</td>
-            <td>More easy to find it on the network</br>Link to be add soon ...</A></td>
+            <td>More easy to find it on the network</br>Link to be add soon ...</td>
         </tr>      
         <tr>
             <th>2<th>     
             <td>Create a "non-root" user and define it some root privileges</td>
             <td>Add a user and add it in the "sudo" group</td>
-            <td>This is a Linux good practices</br>Link to be add soon ...</A></td>
+            <td>This is a Linux good practices</br>Link to be add soon ...</td>
         </tr>   
     </tbody>
 </table>
