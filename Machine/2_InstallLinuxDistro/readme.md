@@ -1,4 +1,4 @@
-Install A Linux Distribution on a Physical Machine
+Install a Linux Distribution on a Physical Machine
 ==
 
 Objective : 
