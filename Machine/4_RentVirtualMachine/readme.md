@@ -47,6 +47,11 @@ References
             <td>Admin@http://sshagan.net/blog</td>
             <td>English</td>
         </tr>
+        <tr>
+            <td><A href="https://docs.ovh.com/fr/vps/debuter-avec-vps/">Débuter avec un VPS</A></td>
+            <td>https://docs.ovh.com/</td>
+            <td>Français</td>
+        </tr>
 </table>
 
 ---
