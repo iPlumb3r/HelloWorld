@@ -3,11 +3,11 @@ Build A "Nude" Physical Machine
 
 Objective (Why ?)
 -
-To Be Done ...
+Get a fine-tuned machine for your final usage.
 
 Description (What ?)
 -
-To Be Done ...
+Choose, order and assemble required components.
 
 Instructions (How ?)
 -
@@ -24,9 +24,33 @@ You just need to achieve those steps :
     <tbody>
         <tr>
             <th>0</th>     
+            <td>Evaluate your needs (power, memory, storage, connectivity, ...)</td>
             <td></td>
             <td></td>
-            <td></A></td>
+        </tr>
+         <tr>
+            <th>1</th>     
+            <td>Select your components</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>2</th>     
+            <td>Select your merchant</td>
+            <td>Use price comparator site</td>
+            <td>many component are available at several places</td>
+        </tr>
+         <tr>
+            <th>3</th>     
+            <td>Order your components ... and wait for delivery</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>4</th>     
+            <td>Assemble your machine</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
