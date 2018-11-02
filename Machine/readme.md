@@ -67,7 +67,7 @@ Depending of the hardware and/or software prerequisites of your projet you could
 
 The following schema show how those activities are connected togheter : 
 
-![Activities](https://github.com/babonet13/Images/blob/master/HelloWorld/Machine/Activities.png)
+![MachineActivities](https://github.com/babonet13/Images/blob/master/HelloWorld/Machine/MachineActivities.png)
 
 Instructions (How ?) : 
 -
