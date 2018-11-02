@@ -23,22 +23,22 @@ Depending of the hardware and/or software prerequisites of your projet you could
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">0. Build A "Nude" Physical Machine</a></td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">0. Build a "Nude" Physical Machine</a></td>
             <td>Building a machine from its component (Box, Motherboard, Hard Drive, ...) </td>
             <td></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">1. Buy A "Nude" Physical Machine</a></td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">1. Buy a "Nude" Physical Machine</a></td>
             <td>Just order a machine without OS to a merchant</td>
             <td>Where "nude" means without any OS installed</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">2. Install A Linux Distribution on a Physical Machine</a></td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">2. Install a Linux Distribution on a Physical Machine</a></td>
             <td>Just order a machine with a Linux OS to a merchant</td>
             <td></td>
         </tr>
         <tr>
-            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">3. Buy A "Linux Pre-installed" Physical Machine</a></td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">3. Buy a "Linux Pre-installed" Physical Machine</a></td>
             <td>Just order a machine with a Linux OS to a merchant</td>
             <td></td>
         </tr>       
