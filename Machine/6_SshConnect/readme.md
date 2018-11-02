@@ -50,4 +50,4 @@ References
 </table>
 
 ---
-<A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/5_FindIP">Previous</A>) | <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/7_InitializeMachine">Next<A/> 
+<A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/5_FindIP">Previous</A> | <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/7_InitializeMachine">Next<A/> 
