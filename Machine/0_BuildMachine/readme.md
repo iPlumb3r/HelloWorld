@@ -31,7 +31,7 @@ You just need to achieve those steps :
          <tr>
             <th>1</th>     
             <td>Select target components</td>
-            <td>Carrefully compare the project needs with the component specifciations</td>
+            <td>Carrefully compare the project needs with the component specificiations</td>
             <td></td>
         </tr>
         <tr>
