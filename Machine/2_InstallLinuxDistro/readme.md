@@ -3,11 +3,11 @@ Install a Linux Distribution on a Physical Machine
 
 Objective (Why ?)
 -
-To Be Done ...
+Get compliant Linux-based machine.
 
 Description (What ?)
 -
-To Be Done ...
+Give a Linux-based OS (Operating System) to your machine.
 
 Instructions (How ?)
 -
