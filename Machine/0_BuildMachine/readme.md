@@ -3,9 +3,12 @@ Build A "Nude" Physical Machine
 
 Objective (Why ?)
 -
+To Be Done ...
 
 Desciption (What ?)
 -
+To Be Done ...
+
 
 Instructions (How ?)
 -
