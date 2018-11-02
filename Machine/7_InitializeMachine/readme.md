@@ -3,11 +3,11 @@ Initialize a Linux-based Machine
 
 Objective (Why ?)
 -
-To Be Done ...
+Prepare a machine for its  finality ...
 
 Description (What ?)
 -
-To Be Done ...
+Some basic configurations for making a machine usable.
 
 Instructions (How ?)
 -
