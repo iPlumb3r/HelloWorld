@@ -26,7 +26,7 @@ You just need to achieve those steps :
             <th>0</th>     
             <td>Evaluate your needs (power, memory, storage, connectivity, ...)</td>
             <td></td>
-            <td></td>
+            <td>Insure you to understand both harwdare, software & information prerequisites of your project</td>
         </tr>
          <tr>
             <th>1</th>     
