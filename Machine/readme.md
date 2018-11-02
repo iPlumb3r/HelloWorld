@@ -48,17 +48,17 @@ Depending of the hardware and/or software prerequisites of your projet you could
             <td>e.g. Amazon AWS, Digital Ocean, OVH, ...</td>
         </tr>  
         <tr>
-            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">5. Find the WAN/LAN IP of a machine</a></td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">5. Find the WAN/LAN IP of a Machine</a></td>
             <td>It could be the machine you are conneted on or another machine on the same LAN</td>
             <td></td>
         </tr>       
         <tr>
-            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">6. SSH Connect to a Linux-based machine</a></td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">6. SSH Connect to a Linux-based Machine</a></td>
             <td>Crypted SH connection to the machine</td>
             <td>e.g. Using OpenSSH</td>
         </tr>       
         <tr>
-            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">7. Initialize Linux-based machine</a></td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine/">7. Initialize a Linux-based Machine</a></td>
             <td>Realizing some basic actions in order to prepare a machine to its final destination</td>
             <td>e.g. Defining a fixed LAN IP, Naming the machine, Creating a user, ...</td>
         </tr>     
