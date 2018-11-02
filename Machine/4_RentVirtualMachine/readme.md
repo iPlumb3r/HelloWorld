@@ -43,9 +43,9 @@ References
     </thead>
      <tbody>
         <tr>
-            <td>To Be Defined</td>
-            <td>To Be Defined</td>
-            <td></td>
+            <td><A href"http://sshagan.net/blog/2018/04/how-to-setup-vps-with-ubuntu-server-on-digital-ocean.html">How to Setup VPS with Ubuntu Server on Digital Ocean</A></td>
+            <td>Admin@http://sshagan.net/blog</td>
+            <td>English</td>
         </tr>
 </table>
 
