@@ -5,10 +5,9 @@ Objective (Why ?)
 -
 To Be Done ...
 
-Desciption (What ?)
+Description (What ?)
 -
 To Be Done ...
-
 
 Instructions (How ?)
 -
