@@ -35,7 +35,7 @@ You just need to achieve those steps :
             <td>More easy to find it on the network</br>Link to be add soon ...</A></td>
         </tr>      
         <tr>
-            <th>2/<th>     
+            <th>2<th>     
             <td>Create a "non-root" user and define it some root privileges</td>
             <td>Add a user and add it in the "sudo" group</td>
             <td>This is a Linux good practices</br>Link to be add soon ...</A></td>
