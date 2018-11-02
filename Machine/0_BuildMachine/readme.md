@@ -1,10 +1,13 @@
 Build A "Nude" Physical Machine
 ==
 
-Objective : 
+Objective (Why ?)
 -
 
-Step by step procedure 
+Desciption (What ?)
+-
+
+Instructions (How ?)
 -
 You just need to achieve those steps :
 <table>
