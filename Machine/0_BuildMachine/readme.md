@@ -31,3 +31,22 @@ You just need to achieve those steps :
         </tr>
     </tbody>
 </table>
+
+References
+-
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Author(s)</th>
+            <th>Language</th>
+        </tr>
+    </thead>
+     <tbody>
+        <tr>
+            <td>To Be Defined</td>
+            <td>To Be Defined</td>
+            <td></td>
+        </tr>
+</table>
