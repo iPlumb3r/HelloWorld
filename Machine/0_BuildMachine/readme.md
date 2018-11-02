@@ -1,4 +1,4 @@
-0. Build A "Nude" Physical Machine
+Build A "Nude" Physical Machine
 ==
 
 Objective : 
