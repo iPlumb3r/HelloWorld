@@ -38,7 +38,7 @@ You just need to achieve those steps :
             <th>2</th>     
             <td>Select the potentials merchants</td>
             <td>Use price comparator site</td>
-            <td>many component are available at several places</td>
+            <td>Many component are available at several places</td>
         </tr>
          <tr>
             <th>3</th>     
