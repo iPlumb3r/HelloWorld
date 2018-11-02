@@ -31,4 +31,4 @@ You just need to achieve those steps :
     </tbody>
 </table>
 
-<A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/0_BuildMachine">Make<A/> | <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/3_BuyLinuxMachine">Buy<A/> | <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/5_FindIP">Next<A/> 
+<A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/0_BuildMachine">Make<A/> | <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/1_BuyNudeMachine">Buy<A/> | <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/5_FindIP">Next<A/> 
