@@ -25,31 +25,31 @@ You just need to achieve those steps :
         <tr>
             <th>0</th>     
             <td>Evaluate your needs (power, memory, storage, connectivity, ...)</td>
-            <td></td>
-            <td>Insure you to understand both harwdare, software & information prerequisites of your project</td>
+            <td>By a deep study of the project prerequisites (hardware, software, information)</td>
+            <td>Insure you to understand well every facet ot the project</td>
         </tr>
          <tr>
             <th>1</th>     
-            <td>Select your components</td>
-            <td></td>
+            <td>Select the target components</td>
+            <td>Carrefully compare the project needs with the component specifciations</td>
             <td></td>
         </tr>
         <tr>
             <th>2</th>     
-            <td>Select your merchant</td>
+            <td>Select the potentials merchant</td>
             <td>Use price comparator site</td>
             <td>many component are available at several places</td>
         </tr>
          <tr>
             <th>3</th>     
-            <td>Order your components ... and wait for delivery</td>
+            <td>Order selected components at selected merchant(s) ... and wait for theirs delivery</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <th>4</th>     
             <td>Assemble your machine</td>
-            <td></td>
+            <td>Follow project tutorial</td>
             <td></td>
         </tr>
     </tbody>
