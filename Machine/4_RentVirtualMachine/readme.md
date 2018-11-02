@@ -3,11 +3,11 @@ Rent a Linux Pre-installed Virtual Machine
 
 Objective (Why ?)
 -
-To Be Done ...
+Use a virtual machine hosted in the cloud instead of a physical machine
 
 Description (What ?)
 -
-To Be Done ...
+Create an account at a VPS (Virtual Private Server) provider and setup a machine
 
 Instructions (How ?)
 -
@@ -24,9 +24,33 @@ You just need to achieve those steps :
     <tbody>
         <tr>
             <th>0</th>     
+            <td>Choose a VPS (Virtual Private Server) provider</td>
+            <td></td>
+            <td>e.g. Amazon AWS, Digital Ocean, OVH, ...</td>
+        </tr>
+        <tr>
+            <th>1</th>     
+            <td>Create an account at your choosen VPS provider</td>
             <td></td>
             <td></td>
-            <td></A></td>
+        </tr>
+        <tr>
+            <th>2</th>     
+            <td>Select the characteristics (power, memory, storage, ...) of your VPS</td>
+            <td></td>
+            <td>Optionaly selection the location, the IP address, ...</td>
+        </tr>
+            <tr>
+            <th>3</th>     
+            <td>Select the Linux operating system</td>
+            <td></td>
+            <td></td>
+        </tr>
+            <tr>
+            <th>4</th>     
+            <td>Lauch the build process</td>
+            <td></td>
+            <td>At the end of this process, the provider will give you the IP address of the VPS ans the password or the administrator of the machine for SSH connect</td>
         </tr>
     </tbody>
 </table>
