@@ -7,8 +7,7 @@ Interesting solution if you do not want to install Linux by yourself !
 
 Description (What ?)
 -
-To Be Done ...
-
+Choose the machine (including the Linux ditribution) and the merchant, and order
 
 Instructions (How ?)
 -
