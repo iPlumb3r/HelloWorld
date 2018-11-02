@@ -51,4 +51,4 @@ References
 </table>
 
 ---
-<A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/2_InstallLinuxDistro">Install</A> | <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/3_BuyLinuxMachine">Buy</A> | <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/4_RentVirtualMachine">Rent</A> ||| <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/6_SshConnect">Next<A/> 
+(<A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/2_InstallLinuxDistro">Install</A> | <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/3_BuyLinuxMachine">Buy</A> | <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/4_RentVirtualMachine">Rent</A>) Previous ||| <A href="https://github.com/babonet13/HelloWorld/tree/master/Machine/6_SshConnect">Next<A/> 
