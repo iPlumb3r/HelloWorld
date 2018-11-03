@@ -14,7 +14,6 @@ or
 * LSDIFY (Let Someone Do It For You ;-)
 
 Depending of your option choice, you can see which activities you have to DIY : 
-
 ![Option_x_Activity](https://github.com/babonet13/Images/blob/master/HelloWorld/Machine/Option_x_Activity.png)
 
 Description (What ?) : 
