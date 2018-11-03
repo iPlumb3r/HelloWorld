@@ -20,7 +20,7 @@ Sections of this repository :
     <tbody>
         <tr>
             <td><a href="https://github.com/babonet13/HelloWorld/tree/master/App">App</a></td>
-            <td>Installation instructions for applications</td>
+            <td>Code instructions for installing, configuring and testing applications</td>
             <td>Provided by default for Ubuntu/Debian-based Linux distro</td>
         </tr>
         <tr>
