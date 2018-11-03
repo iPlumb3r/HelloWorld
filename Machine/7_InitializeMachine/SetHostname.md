@@ -1,6 +1,7 @@
 How the set the hostname of a machine ?
 ==
 Just for the example we assume that the name of our Linux-based machine is "dev-box"
+If your are conntected with the "root" user, you can drop the "sudo" in each code line !
 
 Instructions (Ubuntu/Debian)
 -
