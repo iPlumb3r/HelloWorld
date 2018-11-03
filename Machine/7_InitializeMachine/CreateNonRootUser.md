@@ -8,7 +8,7 @@ Instructions (Ubuntu/Debian)
 -
 Create a new "babonet13" user :
 <pre><code>$ adduser babonet13</code></pre>
-> Follow the instructions and define it a password
+> Follow the instructions and define it a password.
 
 Allow the "babonet13" user to - sometimes - act as "root" by adding it in the "sudo" group :
 <pre><code>$ adduser babonet13 sudo</code></pre>
