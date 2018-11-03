@@ -37,4 +37,4 @@ Code instruction :
 <pre><code>$ sudo apk update</code></pre>
 
 Image :
-![alt text](https://github.com/babonet13/Images/blob/master/Portainer/LinuxCommandLine.png.png)
+![alt text](https://github.com/babonet13/Images/blob/master/Portainer/LinuxCommandLine.png)
