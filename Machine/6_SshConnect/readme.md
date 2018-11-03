@@ -31,7 +31,9 @@ You just need to achieve those steps :
             <td>Open a terminal and tape</br>ssh@ip.add.of.box:22</br>(e.g. : ssh@195.70.34.97:22</td>
             <td>Open a terminal and tape</br>ssh@ip.add.of.box:22</br>(e.g. : ssh@195.70.34.97:22</td>
             <td>Download and install <A href="https://putty.org/">Putty</A></td>
-         <th>1</th>     
+         </tr>
+         <tr>
+            <th>1</th>     
             <td>Enter the password</td>
             <td>Enter the password</td>
             <td>Complete the "Host Name (or IP address" field and clic on the "Open" button. Enter the password</td>
