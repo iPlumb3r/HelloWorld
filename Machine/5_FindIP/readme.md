@@ -30,13 +30,13 @@ You just need to achieve those steps :
             <th>0</th>     
             <td>Determine your LAN network template</td>
             <td>Ask for your LAN IP</br>Linux (in a terminal) : ifconfig</br>OSX (in a terminal) : ifconfig</br>Windows (in a terminal) : ipconfig</td>
-            <td>Most of the time : 192.168.0.xyz or 192.68.1.xyz</td>
+            <td>Most of the time : 192.168.0.x or 192.68.1.x</td>
         </tr>
          <tr>
             <th>1</th>     
             <td>Scan the network</td>
              <td>Use a LAN port scanner</br>Linux (in a terminal) : sudo nmap -sP 192.168.1.0/24</br>OSX : Use <A href="https://angryip.org/download/#mac">AngryIP</A></br>Windows : Use <A href="https://angryip.org/download/#windows">AngryIP</A></td>
-            <td>If template = 192.168.0.xyz Then From 192.168.0.1 To 192.168.0.255</br>If template = 192.168.1.xyz then From 192.168.1.1 To 192.168.1.255</td>
+            <td>If template = 192.168.0.x Then From 192.168.0.1 To 192.168.0.255</br>If template = 192.168.1.x then From 192.168.1.1 To 192.168.1.255</td>
         </tr>
     </tbody>
 </table>
