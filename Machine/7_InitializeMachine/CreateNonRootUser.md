@@ -9,7 +9,7 @@ Create a new user named "babonet13"
 <pre><code>$ sudo adduser babonet13</code></pre>
 > Follow the instructions and define it a password
 
-Allow the user "satoshi" to - sometimes - act as "root" by adding it in the "sudo" group
+Allow the user "babonet13" to - sometimes - act as "root" by adding it in the "sudo" group
 <pre><code>$ sudo adduser babonet13 sudo</code></pre>
 
 Apply this change by connected you as the non-root user
