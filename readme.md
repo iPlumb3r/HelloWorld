@@ -30,7 +30,7 @@ Sections of this repository :
         </tr>
         <tr>
             <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine">Machine</a></td>
-            <td>Instruction for setting up a Linux-based machine</td>
+            <td>How-to guide for setting up a Linux-based machine</td>
             <td>Physical machine and/or virtual machine</td>
         </tr>
     </tbody>
