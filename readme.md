@@ -20,13 +20,13 @@ Sections of this repository :
     <tbody>
         <tr>
             <td><a href="https://github.com/babonet13/HelloWorld/tree/master/App">App</a></td>
-            <td>Installation installation instructions</td>
-            <td>Provided by default for Ubuntu/Debian Linux Distro</td>
+            <td>Installation instructions for applications</td>
+            <td>Provided by default for Ubuntu/Debian-based Linux distro</td>
         </tr>
         <tr>
             <td><a href="https://github.com/babonet13/HelloWorld/tree/master/File">File</a></td>
-            <td>Template of file</td>
-            <td></td>
+            <td>File templates</td>
+            <td>Confifuration files, script files, ...</td>
         </tr>
         <tr>
             <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine">Machine</a></td>
