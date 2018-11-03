@@ -35,11 +35,3 @@ Sections of this repository :
         </tr>
     </tbody>
 </table>
-
- Template
--
-<pre><code>$ sudo apk update</code></pre>
-
-<a href="https://github.com/babonet13/HelloWorld/">HelloWorld Repository</a>
-
-![alt text](https://github.com/babonet13/HelloWorld/blob/master/Portainer.png)
