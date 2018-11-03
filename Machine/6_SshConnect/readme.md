@@ -3,11 +3,13 @@ SSH Connect to a Linux-based machine
 
 Objective (Why ?)
 -
-To Be Done ...
+To be able to control your Linux-Box
 
 Description (What ?)
 -
-To Be Done ...
+Make a distant and secure connection between one of your machine (Linux, OSX or Windows) and your Linux-Box
+We assume that your have thoses 3 informations :
+* The IP of your Linux-Box : A WAN IP for a rented VPS (e.g. 195.70.34.97) or a LAN IP for a purshased physical machine (e.g. 192.168.0.33)
 
 Instructions (How ?)
 -
