@@ -1,4 +1,5 @@
-How the set a fixed LAN IP address for a machine ?
+How to 
+he set a fixed LAN IP address for a machine ?
 ==
 
 Instructions (Ubuntu/Debian)
