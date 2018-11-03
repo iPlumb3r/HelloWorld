@@ -1,3 +1,3 @@
 App
 ==
-This section is dedicated to provide instructions for installing __applications__.
+This section is dedicated to provide __code instructions__ for installing, configuring and testing applications.
