@@ -3,7 +3,7 @@ Initialize a Linux-based Machine
 
 Objective (Why ?)
 -
-Prepare a machine for its  finality ...
+Prepare a machine for its  finality.
 
 Description (What ?)
 -
