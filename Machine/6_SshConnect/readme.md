@@ -36,7 +36,6 @@ You just need to achieve those steps :
             <td>Enter the password</td>
             <td>Complete the "Host Name (or IP address" field and clic on the "Open" button. Enter the password</td>
         </tr>
-        </tr>
     </tbody>
 </table>
 
