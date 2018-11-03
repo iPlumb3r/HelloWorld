@@ -16,7 +16,7 @@ Edit the "hostname" file :
 Edit the "hosts" file :
 <pre><code>$ sudo nano /etc/hosts</code></pre>
 > Find the line with "127.0.0.1" and add "dev-box" at the end of this ligne. Your file will now look like this :  
-<pre><code>d127.0.0.1 localhost localhost.localdomain dev-box dev-box.mydomain.ext</pre>
+<pre><code>127.0.0.1 localhost localhost.localdomain dev-box dev-box.mydomain.ext</pre>
 
 Restart the system :
 <pre><code>$ sudo reboot</code></pre>
