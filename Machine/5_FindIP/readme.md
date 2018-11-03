@@ -29,13 +29,13 @@ You just need to achieve those steps :
         <tr>
             <th>0</th>     
             <td>Determine your LAN network template</td>
-            <td>Linux (in a terminal) : ifconfig</br>OSX (in a terminal) : ifconfig</br>Windows (in a terminal) : i__p__config</td>
+            <td>Ask for your LAN IP</br>Linux (in a terminal) : ifconfig</br>OSX (in a terminal) : ifconfig</br>Windows (in a terminal) : ipconfig</td>
             <td>Most of the time : 192.168.0.xyz or 192.68.1.xyz</td>
         </tr>
          <tr>
-            <th>0</th>     
-            <td>Determine your LAN network template</td>
-            <td></td>
+            <th>1</th>     
+            <td>Scan the networkd</td>
+             <td>Use a LAN port scanner</br>Linux (in a terminal) : sudo nmap -sP 192.168.1.0/24</br>OSX : Use <A href="https://angryip.org/download/#mac">AngryIP</A></br>Windows : Use <A href="https://angryip.org/download/#windows">AngryIP</A></td>
             <td>Most of the time : 192.168.0.xyz or 192.68.1.xyz</td>
         </tr>
     </tbody>
