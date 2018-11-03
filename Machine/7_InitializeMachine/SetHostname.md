@@ -9,11 +9,11 @@ Need for a text editor
 <pre><code>$ sudo apt-get -y nano</code></pre>
 
 Edit the "hostname" file :
-<pre><code>$ nano /etc/hostname</code></pre>
+<pre><code>$ sudo nano /etc/hostname</code></pre>
 Replace the current default name by "dev-box".  
 
 Edit the "hosts" file :
-<pre><code>$ nano /etc/hosts</code></pre>
+<pre><code>$ sudo nano /etc/hosts</code></pre>
 Find the line with "127.0.0.1" and add "dev-box" at the end of this ligne
 
 Restart the system :
