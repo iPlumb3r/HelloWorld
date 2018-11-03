@@ -1,13 +1,17 @@
 Machine
 ==
+This section is dedicated to provide __how-to guide__ for setting-up a Linux-based machine.
 
 Objectives (Why ?) : 
 -
-This section is dedicated to instructions for :
-* building, 
-* installing 
-* & initializing. 
-Linux-based (physiqal or virtual) machine
+Setting-up a ready-to-use Linux-based physical (or virtual) machine according your needs
+
+Description (What ?) : 
+-
+For each step ; depending of your know-how, your budget and/or your motivation your can :
+* DIY (Do itYourself)
+or
+* Let someone do it for you
 
 Description (What ?) : 
 -
