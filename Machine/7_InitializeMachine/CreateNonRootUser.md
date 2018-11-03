@@ -20,10 +20,13 @@ Apply this change by connected you as the non-root user :
 Instructions (Alpine Linux)
 -
 __Prerequisites__ (Need for a text editor) :
-<pre><code>$ apk add ano</code></pre>
+<pre><code>$ apk add nano</code></pre>
 
 Create the "sudo" group :
 <pre><code>$ addgroup sudo </code></pre>
+
+Install the "sudo" package :
+<pre><code>$ apk add sudo</code></pre>
 
 Edit the "sudoers" configuration file : 
 <pre><code>$ nano /etc/sudoers</code></pre>
