@@ -3,11 +3,15 @@ Find the WAN/LAN IP of a machine
 
 Objective (Why ?)
 -
-To Be Done ...
+Being able to make a SSH connection with your Linux-Box from another machine :
+* This is optionnal for a physical machined that you have build or buy, 
+* But, this is mandatory for a virtual machine that you have rent.
 
 Description (What ?)
 -
-To Be Done ...
+We assume that :
+* In the case of a virtual machine (looking for a WAN IP) : your VPS provider already give you the WAN IP of your machine (e.g. 195.40.24.78)
+*  In the case of a physical machine (looking for a LAN IP) : Your are connected with another machine (Linux, OSX or Windows) on the __same__ network than your Linux-Box
 
 Instructions (How ?)
 -
@@ -24,9 +28,15 @@ You just need to achieve those steps :
     <tbody>
         <tr>
             <th>0</th>     
+            <td>Determine your LAN network template</td>
+            <td>Linux (in a terminal) : ifconfig</br>OSX (in a terminal) : ifconfig</br>Windows (in a terminal) : i__p__config</td>
+            <td>Most of the time : 192.168.0.xyz or 192.68.1.xyz</td>
+        </tr>
+         <tr>
+            <th>0</th>     
+            <td>Determine your LAN network template</td>
             <td></td>
-            <td></td>
-            <td></A></td>
+            <td>Most of the time : 192.168.0.xyz or 192.68.1.xyz</td>
         </tr>
     </tbody>
 </table>
