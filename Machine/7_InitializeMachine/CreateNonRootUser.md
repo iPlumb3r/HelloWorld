@@ -31,7 +31,7 @@ Install the "sudo" package :
 Edit the "sudoers" configuration file : 
 <pre><code>$ nano /etc/sudoers</code></pre>
 > Find the line with "%sudo ALL=(ALL) ALL" and un-ciomment the line by removing the "#" character. Your file will now look like this :  
-<pre><code>sudo  ALL=(ALL)  ALL</pre>
+<pre><code>sudo  ALL=(ALL)  ALL</pre></code>
 
 Create a new user named "babonet13" :
 <pre><code>$ sudo adduser babonet13</code></pre>
