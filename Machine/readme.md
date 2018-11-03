@@ -65,6 +65,10 @@ Depending of the hardware and/or software prerequisites of your projet you could
     </tbody>
 </table>
 
+Depending of your option choice, you can see which activities you have to DIY (Do It Yourself) : 
+
+![Option_x_Activity](https://github.com/babonet13/Images/blob/master/HelloWorld/Machine/Option_x_Activity.png)
+
 The following schema show how those activities are connected togheter : 
 
 ![ActivitiyMap_Machine](https://github.com/babonet13/Images/blob/master/HelloWorld/Machine/ActivityMap_Machine.png)
