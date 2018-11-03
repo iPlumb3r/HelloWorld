@@ -9,9 +9,13 @@ Setting-up a ready-to-use Linux-based physical (or virtual) machine according yo
 Description (What ?) : 
 -
 For each step ; depending of your know-how, your budget and/or your motivation your can :
-* DIY (Do itYourself)
+* DIY (Do It Yourself)
 or
-* Let someone do it for you
+* LSDIFY (Let Someone Do It For You ;-)
+
+Depending of your option choice, you can see which activities you have to DIY : 
+
+![Option_x_Activity](https://github.com/babonet13/Images/blob/master/HelloWorld/Machine/Option_x_Activity.png)
 
 Description (What ?) : 
 -
@@ -69,9 +73,6 @@ Depending of the hardware and/or software prerequisites of your projet you could
     </tbody>
 </table>
 
-Depending of your option choice, you can see which activities you have to DIY (Do It Yourself) : 
-
-![Option_x_Activity](https://github.com/babonet13/Images/blob/master/HelloWorld/Machine/Option_x_Activity.png)
 
 The following schema show how those activities are connected togheter : 
 
