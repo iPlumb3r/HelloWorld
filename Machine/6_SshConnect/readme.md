@@ -9,7 +9,9 @@ Description (What ?)
 -
 Make a distant and secure connection between one of your machine (Linux, OSX or Windows) and your Linux-Box
 We assume that your have thoses 3 informations :
-* The IP of your Linux-Box : A WAN IP for a rented VPS (e.g. 195.70.34.97) or a LAN IP for a purshased physical machine (e.g. 192.168.0.33)
+* The __IP Address__ of your Linux-Box : A WAN IP for a rented VPS (e.g. 195.70.34.97) or a LAN IP for a purshased physical machine (e.g. 192.168.0.33)
+* The __name__ of the root user of your machine : most of the time "root", but could be "admin" of another name
+* The __password__ for this user
 
 Instructions (How ?)
 -
