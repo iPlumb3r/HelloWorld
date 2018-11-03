@@ -26,7 +26,7 @@ You just need to achieve those steps :
             <th>0</th>     
             <td>Give a name to the machine</td>
             <td>Define the hostname</td>
-            <td>Link to <A href"https://github.com/babonet13/HelloWorld/blob/master/Machine/7_InitializeMachine/SetHostname.md">detailled instruction</A></td>
+            <td>Link to <A href="https://github.com/babonet13/HelloWorld/blob/master/Machine/7_InitializeMachine/SetHostname.md">detailled instructions</A></td>
         </tr>
          <tr>
             <th>1</th>     
