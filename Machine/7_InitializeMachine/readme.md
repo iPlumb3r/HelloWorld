@@ -32,13 +32,13 @@ You just need to achieve those steps :
             <th>1</th>     
             <td>Give a fixed LAN IP address to the machine</td>
             <td>Modify the /etc/network/interfaces configuration file</td>
-            <td>More easy to find it on the network</br>Link to be add soon ...</td>
+            <td>Link to <A href="https://github.com/babonet13/HelloWorld/blob/master/Machine/7_InitializeMachine/SetFixedLanIP.md">detailled instructions</A></td>
         </tr>      
         <tr>
             <th>2</th>     
             <td>Create a "non-root" user and define it some root privileges</td>
             <td>Add a user and add it in the "sudo" group</td>
-            <td>This is a Linux good practices</br>Link to be add soon ...</td>
+            <td>Link to <A href="https://github.com/babonet13/HelloWorld/blob/master/Machine/7_InitializeMachine/ 	CreateNonRootUser.md">detailled instructions</A></td>
         </tr>   
     </tbody>
 </table>
