@@ -1,8 +1,8 @@
 How to create a "non-root" user (with some root privileges) ? 
 ==
 Just for the example we assume that : 
-* thoses code is executed you the user "root" itself
-* the name of your non-root user is "babonet13"
+* the following code lines are executed by the "root" user itself
+* the name of the non-root user is "babonet13"
 
 Instructions (Ubuntu/Debian)
 -
