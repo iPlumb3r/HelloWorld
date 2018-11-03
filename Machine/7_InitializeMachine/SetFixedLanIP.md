@@ -1,6 +1,8 @@
 How to set a fixed LAN IP address for a machine ?
 ==
-Just for the example we assume that the LAN IP of our Linux-based machine will be 192.168.0.10
+
+Just for the example we assume that the LAN IP of our Linux-based machine will be 192.168.0.10. 
+
 Instructions (Ubuntu/Debian)
 -
 __Prerequisites__ (Need for a text editor) :
