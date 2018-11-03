@@ -40,7 +40,7 @@ Keys criterias :
 
 Reference(s)
 -
-<a href="https://bitcoin.org/en/full-node#ubuntu-1604">Linux Instructions</a>.  
+<a href="https://bitcoin.org/en/full-node#ubuntu-1604">Linux Instructions</a>  
 
 Installation
 -
