@@ -4,7 +4,7 @@ This section is dedicated to provide __how-to guide__ for setting-up a Linux-bas
 
 Objectives (Why ?) : 
 -
-Setting-up a ready-to-use Linux-based physical (or virtual) machine according your needs
+Setting-up a ready-to-use Linux-based physical (or virtual) machine according your needs.
 
 Description (What ?) : 
 -
