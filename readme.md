@@ -26,7 +26,7 @@ Sections of this repository :
         <tr>
             <td><a href="https://github.com/babonet13/HelloWorld/tree/master/File">File</a></td>
             <td>File templates</td>
-            <td>Confifuration files, script files, ...</td>
+            <td>Configuration files, script files, ...</td>
         </tr>
         <tr>
             <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Machine">Machine</a></td>
