@@ -28,7 +28,7 @@ You just need to achieve those steps :
     <tbody>
         <tr>
             <th>0</th>     
-            <td>Required software already installed on mac as you can see <A href="http://osxdaily.com/2017/04/28/howto-ssh-client-mac/"></A>here</td>
+            <td>Required software already installed on mac as you can see <A href="http://osxdaily.com/2017/04/28/howto-ssh-client-mac/">here</A></td>
             <td>Required software already installed. If not enter : sudo apt-get install -y openssh-client</td>
             <td>Download and install <A href="https://putty.org/">Putty</A></td>
          </tr>
