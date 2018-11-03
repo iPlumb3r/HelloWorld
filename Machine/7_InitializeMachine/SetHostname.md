@@ -16,13 +16,13 @@ Edit the "hosts" file :
 <pre><code>$ nano /etc/hosts</code></pre>
 Find the line with "127.0.0.1" and add "dev-box" at the end of this ligne
 
-Restart the. system :
-<pre><code>$ reboot</code></pre>
+Restart the system :
+<pre><code>$ sudo reboot</code></pre>
 
-Instructions (Ubuntu/Debian)
+Instructions (Alpin Linux)
 -
-Launch the sudo susetup-hostname script:
-<pre><code>$ setup</code></pre>
+Launch the "setup-hostname" script:
+<pre><code>$ sudo setup-hostname</code></pre>
 
 Apply this change :
 <pre><code>$ sudo hostname -F /etc/hostname</code></pre>
