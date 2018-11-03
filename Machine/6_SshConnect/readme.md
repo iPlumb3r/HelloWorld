@@ -34,8 +34,8 @@ You just need to achieve those steps :
          </tr>
          <tr>
             <th>1</th>     
-            <td>Open a terminal and tape</br>ssh root@ip.add.of.box</br>(e.g. : ssh root@195.70.34.97</td>
-            <td>Open a terminal and tape</br>ssh root@ip.add.of.box</br>(e.g. : ssh root@195.70.34.97</td>
+            <td>Open a terminal and tape</br>ssh root@ip.add.of.box</br>(e.g. : ssh root@195.70.34.97)</td>
+            <td>Open a terminal and tape</br>ssh root@ip.add.of.box</br>(e.g. : ssh root@195.70.34.97)</td>
             <td>Complete the "Host Name (or IP address" field and clic on the "Open" button. Enter the password</td>
         </tr>
          <tr>
