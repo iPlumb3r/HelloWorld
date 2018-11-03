@@ -23,7 +23,7 @@ If it doesn't work, reboot the machine :
 After service restart (or reboot), check the new IP address :
 <pre><code>$ ifconfig</code></pre>
 >  You will see a section like this :  
-<pre><codeeth0      Link encap:Ethernet  HWaddr D0:50:99:7D:88:2A  
+<pre><code>eth0      Link encap:Ethernet  HWaddr D0:50:99:7D:88:2A  
           inet addr:192.168.0.10  Bcast:0.0.0.0  Mask:255.255.255.0
           inet6 addr: fe80::d250:99ff:fe7d:882a/64 Scope:Link
           UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
