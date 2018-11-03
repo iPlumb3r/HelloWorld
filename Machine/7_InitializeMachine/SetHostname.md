@@ -19,7 +19,7 @@ Find the line with "127.0.0.1" and add "dev-box" at the end of this ligne
 Restart the system :
 <pre><code>$ sudo reboot</code></pre>
 
-Instructions (Alpin Linux)
+Instructions (Alpine Linux)
 -
 Launch the "setup-hostname" script:
 <pre><code>$ sudo setup-hostname</code></pre>
