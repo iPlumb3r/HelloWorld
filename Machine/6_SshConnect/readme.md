@@ -28,18 +28,27 @@ You just need to achieve those steps :
     <tbody>
         <tr>
             <th>0</th>     
-            <td>Open a terminal and tape</br>ssh@ip.add.of.box:22</br>(e.g. : ssh@195.70.34.97:22</td>
-            <td>Open a terminal and tape</br>ssh@ip.add.of.box:22</br>(e.g. : ssh@195.70.34.97:22</td>
+            <td>Required software already installed</td>
+            <td>Required software already installed<</td>
             <td>Download and install <A href="https://putty.org/">Putty</A></td>
          </tr>
          <tr>
             <th>1</th>     
-            <td>Enter the password</td>
-            <td>Enter the password</td>
+            <td>Open a terminal and tape</br>ssh root@ip.add.of.box</br>(e.g. : ssh root@195.70.34.97</td>
+            <td>Open a terminal and tape</br>ssh root@ip.add.of.box</br>(e.g. : ssh root@195.70.34.97</td>
             <td>Complete the "Host Name (or IP address" field and clic on the "Open" button. Enter the password</td>
         </tr>
+         <tr>
+            <th>2</th>     
+            <td>Enter the password</td>
+            <td>Enter the password</td>
+            <td>Enter the password</td>
+        </tr> 
     </tbody>
 </table>
+
+Now your are connected at you Linux-Box ...
+It is a good practice to create a non-root user with some root privileges.
 
 References
 -
