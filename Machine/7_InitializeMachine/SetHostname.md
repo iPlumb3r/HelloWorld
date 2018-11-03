@@ -10,11 +10,11 @@ __Prerequisites__ (Need for a text editor) :
 
 Edit the "hostname" file :
 <pre><code>$ sudo nano /etc/hostname</code></pre>
-Replace the current default name by "dev-box".  
+> Replace the current default name by "dev-box".  
 
 Edit the "hosts" file :
 <pre><code>$ sudo nano /etc/hosts</code></pre>
-Find the line with "127.0.0.1" and add "dev-box" at the end of this ligne
+> Find the line with "127.0.0.1" and add "dev-box" at the end of this ligne
 
 Restart the system :
 <pre><code>$ sudo reboot</code></pre>
