@@ -34,7 +34,7 @@ You just need to achieve those steps :
         </tr>
          <tr>
             <th>1</th>     
-            <td>Scan the network</td>
+            <td>Scan the network to look at the IP of your Linux-Box</td>
              <td>Use a LAN port scanner</br>Linux (in a terminal) : sudo nmap -sP 192.168.1.0/24</br>OSX : Use <A href="https://angryip.org/download/#mac">AngryIP</A></br>Windows : Use <A href="https://angryip.org/download/#windows">AngryIP</A></td>
             <td>If Template = 192.168.0.x Then Scan From 192.168.0.1 To 192.168.0.255</br>If Template = 192.168.1.x Then Scan From 192.168.1.1 To 192.168.1.255</td>
         </tr>
