@@ -23,7 +23,7 @@ __Prerequisites__ (Need for a text editor) :
 <pre><code>$ apk add ano</code></pre>
 
 Create the "sudo" group :
-<pre><code>$ add sudo </code></pre>
+<pre><code>$ addgroup sudo </code></pre>
 
 Edit the "sudoers" configuration file : 
 <pre><code>$ nano /etc/sudoers</code></pre>
