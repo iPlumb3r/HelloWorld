@@ -5,8 +5,7 @@ If your are connected with the "root" user, you can drop the "sudo" in each code
 
 Instructions (Ubuntu/Debian)
 -
-__Prerequisites__ :
-Need for a text editor
+__Prerequisites__ (Need for a text editor) :
 <pre><code>$ sudo apt-get -y nano</code></pre>
 
 Edit the "hostname" file :
@@ -22,7 +21,7 @@ Restart the system :
 
 Instructions (Alpine Linux)
 -
-Launch the "setup-hostname" script:
+Launch the "setup-hostname" script :
 <pre><code>$ sudo setup-hostname</code></pre>
 
 Apply this change :
