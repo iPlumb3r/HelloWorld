@@ -11,21 +11,21 @@ Tableau :
 <table>
     <thead>
         <tr>
-            <th>Head 1</th>
-            <th>Head 2</th>
-            <th>Head 3</th>
+            <th>H1</th>
+            <th>H2</th>
+            <th>H3</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Text A1</td>
-            <td>Text A2</td>
-            <td>Text A3</td>
+            <td>A1</td>
+            <td>A2</td>
+            <td>A3</td>
         </tr>
         <tr>
-            <td>Text B1</td>
-            <td>Text B2</td>
-            <td>Text B3</td>
+            <td>B1</td>
+            <td>B2</td>
+            <td>B3</td>
         </tr>
     </tbody>
 </table>
