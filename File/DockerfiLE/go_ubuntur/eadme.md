@@ -14,7 +14,7 @@ Update the Github repository (if already cloned) :
 <pre><code>$ git pull --rebase</code></pre>
 
 Build the Docker image :
-<pre><code>$ docker build -t ubuntu-pkg /HelloWorld/File/Docker/go_ubuntu</code></pre>
+<pre><code>$ docker build -t ubuntu-pkg /HelloWorld/File/Dockerfile/go_ubuntu</code></pre>
 
 Running Instructions
 -
