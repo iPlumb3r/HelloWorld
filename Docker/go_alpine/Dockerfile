@@ -10,9 +10,9 @@ RUN apk update
 # Install from binary files
 WORKDIR /tmp
 RUN apk add wget 
-RUN wget https://dl.google.com/go/go$GOVERSION.linux-amd64.tar.gz
-RUN tar -xvf go$GOVERSION.linux-amd64.tar.gz
+RUN wget https://dl.google.com/go/go1.11.2.linux-amd64.tar.gz
+RUN tar -xvf go1.11.2.linux-amd64.tar.gz
 RUN mv go /usr/local
-RUN rm go$GOVERSION.linux-amd64.tar.gz
+RUN rm go1.11.2.linux-amd64.tar.gz
 # Run
 ENTRYPOINT /bin/bash
