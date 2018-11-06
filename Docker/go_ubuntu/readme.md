@@ -1,5 +1,13 @@
 # Ubuntu with Go Lang
 
+Prerequisites
+-
+Install Docker : 
+> See detailled instructions <A href="https://github.com/babonet13/HelloWorld/tree/master/App/docker">here</A>. 
+
+Install Git :
+<pre><code>$ sudo apt-get install -y git</code></pre>
+
 Building Instructions
 -
 Pull the source image :
