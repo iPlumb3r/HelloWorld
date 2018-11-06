@@ -50,9 +50,26 @@ N/A
 
 Installation
 -
-Install app
+__Install app from package__ :
+
 <pre><code>$ sudo apt-get update
 $ sudo apt-get install -y golang-go</code></pre>
+
+__Install app from binary files__ :
+Work in a temporary directory
+<pre><code>$ cd /tmp</code></pre>
+
+Set Go Version variable
+<pre><code>$ export GOPATH=%HOME/go</code></pre>
+
+Download binaries :
+<pre><code>$ wget https://dl.google.com/go/go$GOVERSION.linux-amd64.tar.gz</code></pre>
+
+Unzip .tar.gr file  :
+<pre><code>$ tar -xvf go$GOVERSION.linux-amd64.tar.gz</code></pre>
+
+Install Go  :
+<pre><code>$ mv go /usr/local</code></pre>
 
 Configuration
 -
