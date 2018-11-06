@@ -1,4 +1,4 @@
-# Alpine Distro
+# Alpine Distro based Virtual Machine
 
 Prerequisites
 -
