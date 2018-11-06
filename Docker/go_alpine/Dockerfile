@@ -15,4 +15,4 @@ RUN tar -xvf go1.11.2.linux-amd64.tar.gz
 RUN mv go /usr/local
 RUN rm go1.11.2.linux-amd64.tar.gz
 # Run
-ENTRYPOINT /bin/bash
+ENTRYPOINT /bin/sh
