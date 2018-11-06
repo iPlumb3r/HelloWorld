@@ -2,6 +2,7 @@
 FROM ubuntu
 # Prerequisites
 RUN apt-get update
+RUN apt-get install -y wget
 # Environment variables
 ARG GOVERSION=1.11.2
 #ENV GOROOT /usr/local/go
