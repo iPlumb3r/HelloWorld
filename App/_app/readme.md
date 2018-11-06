@@ -21,19 +21,19 @@ Keys criterias :
         </tr>
         <tr>
             <td>Installed Binary</td>
-            <td>/usr/sbin/apache2</td>
+            <td>/bin/app</td>
         </tr>
         <tr>
             <td>Configuration File</td>
-            <td>/etc/apache2/httpd.conf</td>
+            <td>/etc/app/app.conf</td>
         </tr>
         <tr>
             <td>Data Directory</td>
-            <td>/var/www</td>
+            <td>/var/app</td>
         </tr>
         <tr>
             <td>Default Port</td>
-            <td>80</td>
+            <td>12345</td>
         </tr>
     </tbody>
 </table>
@@ -48,8 +48,8 @@ Docker must be installed : See installation guide <a href="https://github.com/ba
 
 Installation
 -
-Install curl
-<pre><code>$ sudo apt-get install -y curl update</code></pre>
+Install app
+<pre><code>$ sudo apt-get install -y app </code></pre>
 
 Configuration
 -
