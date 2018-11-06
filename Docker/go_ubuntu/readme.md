@@ -1,6 +1,5 @@
 # Ubuntu with Go Lang
 
-
 Building Instructions
 -
 Pull the source image :
@@ -14,9 +13,9 @@ Update the Github repository (if already cloned) :
 <pre><code>$ git pull --rebase</code></pre>
 
 Build the Docker image :
-<pre><code>$ docker build -t ubuntu-pkg /HelloWorld/File/Dockerfile/go_ubuntu</code></pre>
+<pre><code>$ docker build -t ubuntu-pkg /HelloWorld/Docker/go_ubuntu</code></pre>
 
 Running Instructions
 -
-Run an container from the Docker image :
+Run a container from the Docker image :
 <pre><code>$ docker run -it --name go-node go_ubuntu</code></pre>
