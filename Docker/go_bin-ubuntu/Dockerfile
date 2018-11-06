@@ -15,5 +15,3 @@ RUN rm go$GOVERSION.linux-amd64.tar.gz
 ENV GOROOT=/usr/local/go
 ENV GOPATH=root/go
 ENV PATH=%PATH:%GOPATH/bin:$GOROOT/bin
-# Target command
-ENTRYPOINT /bin/bash
