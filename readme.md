@@ -4,10 +4,10 @@ This repository is dedicated to provide commons ressources for the others reposi
 
 Objective
 -
-This repository contains content for making development activities easier by providing :
-* instructions
-* file templates  
+This repository contains content for making development activities easier.
 
+Organization
+-
 Sections of this repository :
 <table>
     <thead>
