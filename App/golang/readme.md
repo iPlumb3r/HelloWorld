@@ -55,10 +55,10 @@ __Install app from package__ :
 $ sudo apt-get install -y golang-go</code></pre>
 
 __Install app from binary files__ :   
-Work in a temporary directory
+Work in a temporary directory :
 <pre><code>$ cd /tmp</code></pre>
 
-Set Go Version variable
+Set Go Version variable :
 <pre><code>$ export GOPATH=%HOME/go</code></pre>
 
 Download binaries :
