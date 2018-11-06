@@ -3,7 +3,7 @@ FROM ubuntu
 # Prerequisites
 RUN apt-get update
 RUN apt-get install -y wget
-# Environment variables
+# Argument(s)
 ARG GOVERSION=1.11.2
 # Install from binary files
 WORKDIR /tmp
@@ -15,5 +15,5 @@ RUN rm go$GOVERSION.linux-amd64.tar.gz
 ENV GOROOT=/usr/local/go
 ENV GOPATH=%HOME/go
 ENV PATH=%PATH:%GOPATH/bin:$GOROOT/bin
-# Run
+# Target command
 ENTRYPOINT /bin/bash
