@@ -40,7 +40,7 @@ Keys criterias :
 
 Reference(s)
 -
-<a href="https://docs.docker.com/install/linux/docker-ce/ubuntu/">To Be Defined</a>.  
+<a href="https://github.com/lightningnetwork/lnd">Lightning Network Daemon </a>.  
 
 Prerequisite(s)
 -
