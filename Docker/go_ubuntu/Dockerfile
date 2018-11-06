@@ -1,3 +1,4 @@
+# Source image
 FROM ubuntu
 # Prerequisites
 RUN apt-get install -y wget
