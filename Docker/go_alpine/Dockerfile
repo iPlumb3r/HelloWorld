@@ -1,4 +1,3 @@
-ines (17 sloc) 451 Bytes
 # Source image
 FROM alpine
 # Prerequisites
