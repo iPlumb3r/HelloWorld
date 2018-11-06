@@ -41,6 +41,7 @@ Keys criterias :
 Reference(s)
 -
 <a href="https://golang.org/doc/install">The Go Programming Language / Getting Started</a>.  
+<a href="https://github.com/golang/go/wiki/Ubuntu">Github / goland / go / Ubuntu</a>.  
 <a href="https://tecadmin.net/install-go-on-ubuntu/">How to Install Go 1.10 on Ubuntu 18.04 LTS</a>.    
 
 Prerequisite(s)
