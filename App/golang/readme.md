@@ -50,12 +50,11 @@ N/A
 
 Installation
 -
-__Install app from package__ :
-
+__Install app from package__ :   
 <pre><code>$ sudo apt-get update
 $ sudo apt-get install -y golang-go</code></pre>
 
-__Install app from binary files__ :
+__Install app from binary files__ :   
 Work in a temporary directory
 <pre><code>$ cd /tmp</code></pre>
 
