@@ -3,13 +3,13 @@ FROM ubuntu
 # Prerequisites
 RUN apt-get update
 # Environment variables
-ENV GOVERSION 1.11.2
-ENV GOROOT /usr/local/go
-ENV GOPATH %HOME/go
-ENV PATH %GOPATH/bin:$GOROOT/bin
+ARG GOVERSION 1.11.2
+#ENV GOROOT /usr/local/go
+#ENV GOPATH %HOME/go
+#ENV PATH %GOPATH/bin:$GOROOT/bin
 # Install from binary files
 WORKDIR /tmp
-RUN apt-get install -y wget && wget https://dl.google.com/go/go$GOVERSION.linux-amd64.tar.gz
+RUN wget https://dl.google.com/go/go$GOVERSION.linux-amd64.tar.gz
 RUN tar -xvf go$GOVERSION.linux-amd64.tar.gz
 RUN mv go /usr/local
 RUN rm go$GOVERSION.linux-amd64.tar.gz
