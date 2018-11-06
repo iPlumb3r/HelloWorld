@@ -13,7 +13,7 @@ RUN mv go /usr/local
 RUN rm go$GOVERSION.linux-amd64.tar.gz
 # Environment variable(s)
 ENV GOROOT=/usr/local/go
-ENV GOPATH=%HOME/go
+ENV GOPATH=root/go
 ENV PATH=%PATH:%GOPATH/bin:$GOROOT/bin
 # Target command
 ENTRYPOINT /bin/sh
