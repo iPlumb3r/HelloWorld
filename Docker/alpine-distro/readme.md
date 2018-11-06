@@ -1,5 +1,14 @@
 # Alpine Distro
 
+Prerequisites
+-
+Install Git :
+<pre><code>$ sudo apt-get install -y git</code></pre>
+
+Install Docker : 
+> See detailled instrcutions <A href="https://github.com/babonet13/HelloWorld/tree/master/App/docker">here</A>. 
+
+
 Building Instructions
 -
 Pull the source image :
