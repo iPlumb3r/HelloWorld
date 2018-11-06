@@ -13,7 +13,7 @@ Update the Github repository (if already cloned) :
 <pre><code>$ git pull --rebase</code></pre>
 
 Build the Docker image :
-<pre><code>$ docker build -t ubuntu-pkg /HelloWorld/Docker/alpine-distro</code></pre>
+<pre><code>$ docker build -t alpine-distro /HelloWorld/Docker/alpine-distro</code></pre>
 
 Running Instructions
 -
