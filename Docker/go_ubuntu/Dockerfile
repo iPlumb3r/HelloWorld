@@ -1,6 +1,7 @@
 # Source image
 FROM ubuntu
 # Prerequisites
+RUN apt-get update
 RUN apt-get install -y wget
 # Environment variables
 ENV GOVERSION 1.11.2
