@@ -1,7 +1,7 @@
 # Source image
 FROM alpine
 # Prerequisites
-RUN apt-get update
+RUN apk update
 # Environment variables
 ENV GOVERSION 1.11.2
 ENV GOROOT /usr/local/go
