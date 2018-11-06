@@ -75,8 +75,8 @@ Configuration
 Set "GOROOT" variable (define where Go package is installed on your system) : 
 <pre><code>$ export GOROOT=/usr/local/go</code></pre>
 
-Set "GOPATH" variable (define where Go projects are located) : 
-<pre><code>$ export GOPATH=home/<user>/go</code></pre>
+Set "GOPATH" variable (define where Go projects are located - Must be absolute path) : 
+<pre><code>$ export GOPATH=root/go</code></pre>
 
 Set "PATH" variable (location where the system look for binaries files) : 
 <pre><code>$ export PATH=%GOPATH/bin:$GOROOT/bin</code></pre>
