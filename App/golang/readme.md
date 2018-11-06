@@ -50,7 +50,7 @@ N/A
 Installation
 -
 Install app
-<pre><code>$ sudo apt-get install -y golang </code></pre>
+<pre><code>$ sudo apt-get install -y golang</code></pre>
 
 Configuration
 -
@@ -58,4 +58,8 @@ Bla bla ...
 
 Test
 -
-Bla bla ...
+Verify version :
+<pre><code>$ go version</code></pre>
+
+Verify environment variables :
+<pre><code>$ go env</code></pre>
