@@ -3,7 +3,7 @@ FROM ubuntu
 # Prerequisites
 RUN apt-get update
 # Environment variables
-ARG GOVERSION 1.11.2
+ARG GOVERSION=1.11.2
 #ENV GOROOT /usr/local/go
 #ENV GOPATH %HOME/go
 #ENV PATH %GOPATH/bin:$GOROOT/bin
