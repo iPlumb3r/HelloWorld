@@ -50,7 +50,9 @@ N/A
 Installation
 -
 Install app
-<pre><code>$ sudo apt-get install -y golang</code></pre>
+<pre><code>$ sudo add-apt-repository ppa:longsleep/golang-backports
+$ sudo apt-get update
+$ sudo apt-get install -y golang-go</code></pre>
 
 Configuration
 -
