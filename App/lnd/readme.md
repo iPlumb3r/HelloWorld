@@ -44,7 +44,7 @@ Reference(s)
 
 Prerequisite(s)
 -
-A bitcoin node must be installed (bitcoind or btcd)
+A bitcoin node must be installed (<A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">bitcoind</A> or btcd)
 
 Installation
 -
