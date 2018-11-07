@@ -90,3 +90,10 @@ autopilot.active=1
 autopilot.maxchannels=5
 autopilot.allocation=0.6</code></pre>
 
+Test
+-
+Start "lnd" daemon : 
+<pre><code>$ lnd</code></pre>
+
+Verify the the daemon is listen the "9735" port : 
+<pre><code>$ netstat -anp | grep (LISTEN && 9735)</code></pre>
