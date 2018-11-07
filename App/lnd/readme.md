@@ -70,7 +70,7 @@ $ nano lnd.conf</code></pre>
 debuglevel=debug
 debughtlc=true
 maxpendingchannels=5
-alias=Hubject LN Node
+alias=HYN LN Node
 rpclisten=0.0.0.0:10009
 restlisten=0.0.0.0:8080
 
