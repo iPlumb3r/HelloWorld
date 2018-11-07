@@ -33,8 +33,8 @@ Reference table
         </tr>      
          <tr>
             <td>For SRC</td>
-            <td>B2</td>
-            <td>B3</td>
+            <td>RUN apt-get install -y build-essential</br>RUN apt-get install -y automake</br>RUN apt-get install -y libtool</br>RUN apt-get install -y python3</td>
+            <td>RUN apk add alpine-sdk</td>
         </tr>
     </tbody>
 </table>
