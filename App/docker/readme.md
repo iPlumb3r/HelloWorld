@@ -49,7 +49,7 @@ Curl must be installed. If not installed do :
 
 Installation (Script Mode)
 -
-<pre><code>$ sudo curl -fsSL https://get.docker.com | sh </code></pre>
+<pre><code>$ sudo curl -fsSL https://get.docker.com | sh ; sudo usermod -aG docker babonet13</code></pre>
 
 Installation (Manual Mode)
 -
