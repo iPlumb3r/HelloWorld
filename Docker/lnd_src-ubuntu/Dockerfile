@@ -31,4 +31,4 @@ COPY lnd.conf /root/.lnd/lnd.conf
 # CONTEXTUALISATION
 EXPOSE 9735 18501 18502
 # DAEMONIZATION
-ENTRYPOINT ["/usr/bin/bitcoind"]
+ENTRYPOINT ["/root/go/bin/lnd"]
