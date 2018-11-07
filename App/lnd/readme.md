@@ -52,8 +52,42 @@ Fetch "lnd" sources from Github :
 <pre><code>$ git clone https://github.com/lightningnetwork/lnd %GOHOME/src/github.com/lightningnetwork/lnd
 $ cd %GOHOME/src/github.com/lightningnetwork/lnd</code></pre>
 
-Compiling
+Compilation
 -
 Compile cources : 
 <pre><code>$ make 
 $ make install</code></pre>
+
+Configuration
+-
+Compile cources : 
+<pre><code>$ cd /root 
+$ mkdir .lnd && cd .lnd
+$ nano lnd.conf</code></pre>
+
+> Add the following lines
+<pre><code>
+[Application Options]
+debuglevel=debug
+debughtlc=true
+maxpendingchannels=5
+alias=Hubject LN Node
+rpclisten=0.0.0.0:10009
+restlisten=0.0.0.0:8080
+
+[Connection Options]
+listen=0.0.0.0:9735
+
+[Bitcoin]
+bitcoin.active=1
+bitcoin.mainnet=1
+bitcoin.node=bitcoind
+
+[Bitcoind]
+bitcoind.dir=/etc/bitcoin
+
+[Autopilot]
+autopilot.active=1
+
+</code></pre>
+
