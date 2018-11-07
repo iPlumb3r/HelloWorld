@@ -18,6 +18,6 @@ WORKDIR /root
 RUN mkdir .lnd
 COPY lnd.conf /root/.lnd/lnd.conf
 # CONTEXTUALISATION
-EXPOSE 9735 10009
+EXPOSE 9735 18501 18502
 # DAEMONIZATION
 ENTRYPOINT ["/usr/bin/bitcoind"]
