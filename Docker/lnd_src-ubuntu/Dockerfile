@@ -17,7 +17,7 @@ RUN tar -xvf go$GOVERSION.linux-amd64.tar.gz
 RUN mv go /usr/local
 RUN rm go$GOVERSION.linux-amd64.tar.gz
 ENV GOROOT=/usr/local/go
-ENV GOPATH=root/go
+ENV GOPATH=/root/go
 ENV PATH=%PATH:%GOPATH/bin:$GOROOT/bin
 # INSTALLATION (LND)
 RUN git clone https://github.com/lightningnetwork/lnd %GOPATH/src/github.com/lightningnetwork/lnd
