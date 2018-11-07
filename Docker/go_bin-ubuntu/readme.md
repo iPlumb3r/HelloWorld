@@ -1,4 +1,4 @@
-# Ubuntu with GoLang (Form BIN)
+# Ubuntu with GoLang (From BIN)
 
 Building Instructions
 -
