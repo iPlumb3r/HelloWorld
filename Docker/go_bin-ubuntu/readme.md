@@ -12,3 +12,6 @@ Running Instructions
 -
 Run a container from the Docker image :
 <pre><code>$ docker run -it --name go-node go_bin-ubuntu</code></pre>
+
+For testing :
+<pre><code>$ docker run -it --name go-node go_bin-ubuntu --entrypoint "/bin/bash"</code></pre>
