@@ -19,12 +19,12 @@ Reference table
         <tr>
             <td>Update Repositories</td>
             <td>RUN apt-get update</td>
-            <td>RUN pak update</td>
+            <td>RUN apk update</td>
         </tr>
         <tr>
             <td>For PKG (& BIN & SRC)</td>
-            <td>B2</td>
-            <td>B3</td>
+            <td>RUN apt-get install -y ca-certificates</br>RUN apt-get install -y software-properties-common</br>RUN apt-get install -y apt-utils</td>
+            <td>RUN apk add ca-certificates</td>
         </tr>
         <tr>
             <td>For BIN (& SRC)</td>
