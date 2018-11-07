@@ -50,10 +50,10 @@ Fetching sources
 -
 Fetch "lnd" sources from Github :
 <pre><code>$ git clone https://github.com/lightningnetwork/lnd %GOHOME/src/github.com/lightningnetwork/lnd
-cd %GOHOME/src/github.com/lightningnetwork/lnd</code></pre>
+$ cd %GOHOME/src/github.com/lightningnetwork/lnd</code></pre>
 
 Compiling
 -
 Compile cources : 
 <pre><code>$ make 
-make install</code></pre>
+$ make install</code></pre>
