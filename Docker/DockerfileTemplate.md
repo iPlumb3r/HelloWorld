@@ -28,8 +28,8 @@ Reference table
         </tr>
         <tr>
             <td>For BIN (& SRC)</td>
-            <td>B2</td>
-            <td>B3</td>
+            <td>RUN apt-get install -y wget curl git</br>RUN apt-get install -y tar coreutils</td>
+            <td>RUN apk add wget curl git</td>
         </tr>      
          <tr>
             <td>For SRC</td>
