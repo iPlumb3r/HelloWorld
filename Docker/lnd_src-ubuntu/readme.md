@@ -6,7 +6,7 @@ Pull (of build) the source image :
 <pre><code>$ docker pull go_bin-ubuntu</code></pre>
 
 Build the Docker image :
-<pre><code>$ docker build -t lnd_src-ubntu /HelloWorld/Docker/lnd_src-ubntu</code></pre>
+<pre><code>$ docker build -t lnd_src-ubuntu /HelloWorld/Docker/lnd_src-ubuntu</code></pre>
 
 Running Instructions
 -
