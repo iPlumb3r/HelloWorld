@@ -66,8 +66,7 @@ $ mkdir .lnd && cd .lnd
 $ nano lnd.conf</code></pre>
 
 > Add the following lines
-<pre><code>
-[Application Options]
+<pre><code>[Application Options]
 debuglevel=debug
 debughtlc=true
 maxpendingchannels=5
@@ -87,7 +86,5 @@ bitcoin.node=bitcoind
 bitcoind.dir=/etc/bitcoin
 
 [Autopilot]
-autopilot.active=1
-
-</code></pre>
+autopilot.active=1</code></pre>
 
