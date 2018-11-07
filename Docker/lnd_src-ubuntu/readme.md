@@ -11,4 +11,4 @@ Build the Docker image :
 Running Instructions
 -
 Run a container from the Docker image :
-<pre><code>$ docker run -it --name lightning-node lnd_src-ubntu</code></pre>
+<pre><code>$ docker run -it --name lightning-node lnd_src-ubntu -p 9735:9735 -p 18501:18501 -p 18502:18502</code></pre>
