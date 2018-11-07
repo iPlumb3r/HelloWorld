@@ -46,16 +46,14 @@ Prerequisite(s)
 -
 A bitcoin node must be installed (<A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">bitcoind</A> or btcd)
 
-Installation
+Fetching sources
 -
-Install app
-<pre><code>$ sudo apt-get install -y app </code></pre>
+Fetch "lnd" sources from Github :
+<pre><code>$ git clone https://github.com/lightningnetwork/lnd %GOHOME/src/github.com/lightningnetwork/lnd
+cd %GOHOME/src/github.com/lightningnetwork/lnd</code></pre>
 
-Configuration
+Compiling
 -
-Bla bla ...
-
-Test
--
-Bla bla ...
-
+Compile cources : 
+<pre><code>$ make 
+make install</code></pre>
