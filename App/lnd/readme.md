@@ -95,5 +95,5 @@ Test
 Start "lnd" daemon : 
 <pre><code>$ lnd</code></pre>
 
-Verify the the daemon is listen the "9735" port : 
+Verify that the daemon is listen the "9735" port : 
 <pre><code>$ netstat -anp | grep (LISTEN && 9735)</code></pre>
