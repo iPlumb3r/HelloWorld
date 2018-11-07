@@ -22,8 +22,8 @@ ENV PATH=%PATH:%GOPATH/bin:$GOROOT/bin
 # INSTALLATION (LND)
 RUN git clone https://github.com/lightningnetwork/lnd %GOPATH/src/github.com/lightningnetwork/lnd
 WORKDIR %GOPATH/src/github.com/lightningnetwork/lnd
-RUN Make
-RUN Make install
+RUN make
+RUN make install
 # CONFIGURATION
 WORKDIR /root
 RUN mkdir .lnd
