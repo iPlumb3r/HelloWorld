@@ -23,7 +23,7 @@ Reference table
         </tr>
         <tr>
             <td>For PKG (& BIN & SRC)</td>
-            <td>RUN apt-get install -y ca-certificates</br>RUN apt-get install -y software-properties-common</br>RUN apt-get install -y apt-utils</td>
+            <td>RUN apt-get install -y apt-utils</br>RUN apt-get install -y ca-certificates</br>RUN apt-get install -y software-properties-common</td>
             <td>RUN apk add ca-certificates</td>
         </tr>
         <tr>
