@@ -33,7 +33,7 @@ Keys criterias :
         </tr>
         <tr>
             <td>Default Port(s)</td>
-            <td>9735 (node)</br>10009 (rcp)</td>
+            <td>9735 (p2p)</br>10009 (rcp)</td>
         </tr>
     </tbody>
 </table>
