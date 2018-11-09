@@ -41,6 +41,7 @@ Keys criterias :
 Reference(s)
 -
 <a href="https://bitcoin.org/en/full-node#ubuntu-1604">Linux Instructions</a>  
+<a href="https://en.bitcoin.it/wiki/Running_Bitcoin">Wikipedia (bitcoind options)</a>  
 
 Installation
 -
