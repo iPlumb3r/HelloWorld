@@ -32,7 +32,7 @@ Keys criterias :
             <td>/usr/var/bitcoin</td>
         </tr>
         <tr>
-            <td>Default Port</td>
+            <td>Default Port(s)</td>
             <td>8332 (rcp)</br>8333 (node)</br>29000 (ZMQ)</td>
         </tr>
     </tbody>
