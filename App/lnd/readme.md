@@ -32,7 +32,7 @@ Keys criterias :
             <td>/var/lib/bitcoin</td>
         </tr>
         <tr>
-            <td>Default Port</td>
+            <td>Default Port(s)</td>
             <td>9735 (node)</br>10009 (rcp)</td>
         </tr>
     </tbody>
