@@ -33,7 +33,7 @@ Keys criterias :
         </tr>
         <tr>
             <td>Default Port</td>
-            <td>8333</td>
+            <td>8332 (rcp)</br>8333 (node)</br>29000 (ZMQ)</td>
         </tr>
     </tbody>
 </table>
