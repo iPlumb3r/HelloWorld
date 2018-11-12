@@ -29,7 +29,7 @@ Keys criterias :
         </tr>
         <tr>
             <td>Data Directory</td>
-            <td>/usr/var/bitcoin</td>
+            <td>/lib/var/bitcoin</td>
         </tr>
         <tr>
             <td>Default Port(s)</td>
