@@ -1,4 +1,4 @@
-bitcoin : Installation Guide (Package-based - Ubuntu/Debian)
+bitcoind : Installation Guide (Package-based - Ubuntu/Debian)
 ==
 Id Card
 -
