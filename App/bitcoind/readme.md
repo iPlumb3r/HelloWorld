@@ -33,7 +33,7 @@ Keys criterias :
         </tr>
         <tr>
             <td>Default Port(s)</td>
-            <td>8332 (rcp)</br>8333 (p2p)</br>29000 (ZMQ)</td>
+            <td>8332 (rcp)</br>8333 (p2p)</br>180501 (ZMQ block)</br>180502 (ZMQ tx)</td>
         </tr>
     </tbody>
 </table>
