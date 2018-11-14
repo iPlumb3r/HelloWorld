@@ -73,14 +73,16 @@ Install Go  :
 Configuration
 -
 Set "GOROOT" variable (define where Go package is installed on your system) : 
-<pre><code>$ export GOROOT=/usr/local/go</code></pre>
+<pre><code>$ export GOROOT=/usr/local/go >> ~/.bashrc</code></pre>
 
 Set "GOPATH" variable (define where Go projects are located - Must be absolute path) : 
-<pre><code>$ export GOPATH=/home/babonet13/go</code></pre>
+<pre><code>$ export GOPATH=/home/babonet13/go >> ~/.bashrc</code></pre>
 
 Set "PATH" variable (location where the system look for binaries files) : 
-<pre><code>$ export PATH=$PATH:$GOPATH/bin:$GOROOT/bin</code></pre>
+<pre><code>$ export PATH=$PATH:$GOPATH/bin:$GOROOT/bin >> ~/.bashrc</code></pre>
 
+Get variable from .bashrc file : 
+<pre><code>$ source ~/.bashrc</code></p
 Test
 -
 Verify version :
