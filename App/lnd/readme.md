@@ -45,6 +45,7 @@ Reference(s)
 Prerequisite(s)
 -
 A bitcoin node must be installed (<A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">bitcoind</A> or btcd)
+GoLang must be installed (<A href="https://github.com/babonet13/HelloWorld/tree/master/App/golang">GoLang</A>)
 
 Install make : 
 <pre><code>$ sudo apt-install -y make</code></pre>
