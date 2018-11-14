@@ -68,7 +68,7 @@ Unzip .tar.gr file  :
 <pre><code>$ tar -xvf go$GOVERSION.linux-amd64.tar.gz</code></pre>
 
 Install Go  :
-<pre><code>$ mv go /usr/local</code></pre>
+<pre><code>$ sudo mv go /usr/local</code></pre>
 
 Configuration
 -
