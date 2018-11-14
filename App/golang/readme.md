@@ -82,7 +82,8 @@ Set "PATH" variable (location where the system look for binaries files) :
 <pre><code>$ export PATH=$PATH:$GOPATH/bin:$GOROOT/bin >> ~/.bashrc</code></pre>
 
 Get variable from .bashrc file : 
-<pre><code>$ source ~/.bashrc</code></p
+<pre><code>$ source ~/.bashrc</code></p>
+
 Test
 -
 Verify version :
