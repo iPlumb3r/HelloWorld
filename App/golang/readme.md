@@ -79,7 +79,7 @@ Set "GOPATH" variable (define where Go projects are located - Must be absolute p
 <pre><code>$ export GOPATH=/home/babonet13/go</code></pre>
 
 Set "PATH" variable (location where the system look for binaries files) : 
-<pre><code>$ export PATH=%PATH:%GOPATH/bin:$GOROOT/bin</code></pre>
+<pre><code>$ export PATH=$PATH:$GOPATH/bin:$GOROOT/bin</code></pre>
 
 Test
 -
