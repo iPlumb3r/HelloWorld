@@ -46,6 +46,9 @@ Prerequisite(s)
 -
 A bitcoin node must be installed (<A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">bitcoind</A> or btcd)
 
+Install make : 
+<pre><code>$ sudo apt-install -y make</code></pre>
+
 Fetching sources
 -
 Fetch "lnd" sources from Github :
