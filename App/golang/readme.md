@@ -84,7 +84,7 @@ Set "PATH" variable (location where the system look for binaries files) :
 Configuration (all sessions)
 -
 All this line in the .bashrc file : 
-<pre><code>PATH=/bin:/usr/bin:/usr/local/go/bin:~/go/bin</code></pre>   
+<pre><code>PATH=/bin:/sbin:/usr/bin:/usr/local/go/bin:~/go/bin</code></pre>   
 
 Test
 -
