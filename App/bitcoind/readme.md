@@ -42,6 +42,7 @@ Reference(s)
 -
 <a href="https://bitcoin.org/en/full-node#ubuntu-1604">Linux Instructions</a>  
 <a href="https://en.bitcoin.it/wiki/Running_Bitcoin">Wikipedia (bitcoind options)</a>  
+<a href="https://github.com/CohibAA/bitcoin-cli_command-line-options">Github (bitcoin-cli options)</a>  
 
 Installation
 -
