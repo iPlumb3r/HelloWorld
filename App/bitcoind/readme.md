@@ -44,10 +44,18 @@ Reference(s)
 <a href="https://en.bitcoin.it/wiki/Running_Bitcoin">Wikipedia (bitcoind options)</a>  
 <a href="https://github.com/CohibAA/bitcoin-cli_command-line-options">Github (bitcoin-cli options)</a>  
 
-Installation
+Installation instructions
 -
 Add "bitcoin" repository :
 <pre><code>$ sudo add-apt-repository ppa:bitcoin/bitcoin</code></pre>
 
 Install "bitcoind" package :
 <pre><code>$ sudo apt-get install -y bitcoind</code></pre>
+
+Running instructions
+-
+Start bitcoind in "daemon" mode :
+<pre><code>$ bitcoind -daemon</code></pre>
+
+Stop bitoind :
+<pre><code>$ bitcoin-cli stop</code></pre>
