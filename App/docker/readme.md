@@ -89,6 +89,9 @@ Add the following lines (where 192.168.1.99 is the IP address of the host)
 	"hosts":["unix:///var/run/docker.sock","tcp://192.168.1.99:2375"]
 }</code></pre>
 
+Stop the Docker service
+<pre><code>$ systemctl stop docker</code></pre>
+
 Restart the Docker daemon
 <pre><code>$ sudo dockerd</code></pre>
 
