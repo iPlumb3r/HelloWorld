@@ -68,6 +68,8 @@ Add the official Docker repository :
 <pre><code>$ sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
 $ sudo apt-get update</code></pre>
 
+Notes : https://unix.stackexchange.com/questions/363048/unable-to-locate-package-docker-ce-on-a-64bit-ubuntu
+
 Install Docker-CE :
 <pre><code>$ sudo apt-get install -y docker-ce</code></pre>
 
