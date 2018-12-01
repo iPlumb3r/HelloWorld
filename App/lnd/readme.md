@@ -64,7 +64,7 @@ $ make install</code></pre>
 
 Configuration
 -
-Compile cources : 
+Create ```ldn.conf``` file : 
 <pre><code>$ cd /root 
 $ mkdir .lnd && cd .lnd
 $ nano lnd.conf</code></pre>
