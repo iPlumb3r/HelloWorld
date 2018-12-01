@@ -1,4 +1,4 @@
-RTL (Ride THe Lightnong) : Installation Guide
+RTL (Ride The Lightning) : Installation Guide
 ==
 Id Card
 -
