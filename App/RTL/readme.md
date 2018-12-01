@@ -45,7 +45,7 @@ Reference(s)
 Prerequisite(s)
 -
 __Install npm package__ :   
-<pre><code>$ sudo apt-get install -y npm/code></pre>
+<pre><code>$ sudo apt-get install -y npm</code></pre>
 
 Installation
 -
