@@ -40,9 +40,9 @@ Keys criterias :
 
 Reference(s)
 -
-<a href="https://github.com/lightningnetwork/lnd">Lightning Network Daemon</a>. 
-<a href="https://medium.com/@stadicus/perfect-low-cost-%EF%B8%8Flightning%EF%B8%8F-node-4c2f42a4ff7bd">The perfect Bitcoin ⚡️Lightning️⚡ node</a>. 
-<a href="How to Install and Use the Lightning Network with bitcoind on the Bitcoin Mainnet">How to Install and Use the Lightning Network with bitcoind on the Bitcoin Mainnet</a>. 
+<a href="https://github.com/lightningnetwork/lnd">Lightning Network Daemon</a>.  
+<a href="https://medium.com/@stadicus/perfect-low-cost-%EF%B8%8Flightning%EF%B8%8F-node-4c2f42a4ff7bd">The perfect Bitcoin ⚡️Lightning️⚡ node</a>.  
+<a href="How to Install and Use the Lightning Network with bitcoind on the Bitcoin Mainnet">How to Install and Use the Lightning Network with bitcoind on the Bitcoin Mainnet</a>.  
 
 
 Prerequisite(s)
