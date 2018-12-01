@@ -74,8 +74,6 @@ $ nano lnd.conf</code></pre>
 
 > Add the following lines :
 <pre><code>[Application Options]
-debuglevel=debug
-debughtlc=true
 maxpendingchannels=5
 alias=HYN LN Node
 rpclisten=0.0.0.0:10009
