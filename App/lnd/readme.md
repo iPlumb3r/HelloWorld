@@ -68,7 +68,7 @@ $ make install</code></pre>
 Configuration
 -
 Create ```ldn.conf``` file : 
-<pre><code>$ cd /root 
+<pre><code>$ cd /home/satoshi 
 $ mkdir .lnd && cd .lnd
 $ nano lnd.conf</code></pre>
 
