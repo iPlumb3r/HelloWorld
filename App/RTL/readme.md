@@ -61,4 +61,4 @@ Install RTL :
 Running
 -
 __Run RTL__ :   
-<pre><code>$ node rtl --lndir /home/admin/.lnd/data/chain/bitcoin/mainnet</code></pre>
+<pre><code>$ node rtl --lndir /home/satoshi/.lnd/data/chain/bitcoin/mainnet</code></pre>
