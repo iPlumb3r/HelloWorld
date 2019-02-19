@@ -57,5 +57,8 @@ Running instructions
 Start bitcoind in "daemon" mode :
 <pre><code>$ bitcoind -daemon</code></pre>
 
+Display current block number :
+<pre><code>$ bitcoin-cli getblockcount</code></pre>
+
 Stop bitoind :
 <pre><code>$ bitcoin-cli stop</code></pre>
