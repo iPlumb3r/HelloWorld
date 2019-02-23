@@ -59,7 +59,7 @@ Work in a temporary directory :
 <pre><code>$ cd /tmp</code></pre>
 
 Set Go Version variable :
-<pre><code>$ export GOVERSION=1.11.2</code></pre>
+<pre><code>$ export GOVERSION=1.11.5</code></pre>
 
 Download binaries :
 <pre><code>$ wget https://dl.google.com/go/go$GOVERSION.linux-amd64.tar.gz</code></pre>
