@@ -47,8 +47,8 @@ Reference(s)
 
 Prerequisite(s)
 -
-The ```bitcoin``` application must be installed (<A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">bitcoind</A> or btcd)   
-THe ```golang``` language must be installed (<A href="https://github.com/babonet13/HelloWorld/tree/master/App/golang">golang</A>)
+A ```Bitcoin``` node must be installed (<A href="https://github.com/babonet13/HelloWorld/tree/master/App/bitcoind">bitcoind</A> or btcd)   
+The ```golang``` language must be installed (<A href="https://github.com/babonet13/HelloWorld/tree/master/App/golang">golang</A>)
 
 Install ```make``` package : 
 <pre><code>$ sudo apt-get install -y make</code></pre>
