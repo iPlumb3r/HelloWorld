@@ -64,7 +64,16 @@ Install RTL :
 Update node :
 <pre><code>$ sudo npm i npm</code></pre>
 
+Configuration
+-
+Edit the ```RTL.conf```file :   
+<pre><code>$ sudo nano RTL.conf rtl</code></pre>
+
+Complete those 2 lines  :   
+<pre><code>macaroonPath=/home/satoshi/.lnd/data/chain/bitcoin/mainnet</code></pre>
+<pre><code>lndConfigPath=/home/satoshi/.lnd/lnd.conf</code></pre>
+
 Running
 -
 __Run RTL__ :   
-<pre><code>$ node rtl --lndir /home/satoshi/.lnd/data/chain/bitcoin/mainnet</code></pre>
+<pre><code>$ node rtl
