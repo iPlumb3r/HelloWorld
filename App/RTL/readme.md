@@ -52,7 +52,7 @@ Installation
 Work in the ```src```directory :
 <pre><code>$ cd /src</code></pre>
 
-__Fetch RTL repository__ :   
+Fetch RTL repository :   
 <pre><code>$ git clone https://github.com/ShahanaFarooqui/RTL.git</code></pre>
 
 Change to the ```RTL```directory :
