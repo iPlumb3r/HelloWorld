@@ -59,7 +59,10 @@ Change to the ```RTL```directory :
 <pre><code>$ cd RTL</code></pre>
 
 Install RTL :
-<pre><code>$ npm install</code></pre>
+<pre><code>$ sudo npm install</code></pre>
+
+Update node :
+<pre><code>$ sudo npm i npm</code></pre>
 
 Running
 -
