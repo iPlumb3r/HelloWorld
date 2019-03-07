@@ -49,10 +49,13 @@ __Install npm package__ :
 
 Installation
 -
+Work in the ```src```directory :
+<pre><code>$ cd /src</code></pre>
+
 __Fetch RTL repository__ :   
 <pre><code>$ git clone https://github.com/ShahanaFarooqui/RTL.git</code></pre>
 
-Work in a temporary directory :
+Change to the ```RTL```directory :
 <pre><code>$ cd RTL</code></pre>
 
 Install RTL :
