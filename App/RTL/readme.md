@@ -49,8 +49,8 @@ __Install npm package__ :
 
 Installation
 -
-Work in the ```src```directory :
-<pre><code>$ cd /src</code></pre>
+Work in the ```home```directory :
+<pre><code>$ cd /home/satoshi</code></pre>
 
 Fetch RTL repository :   
 <pre><code>$ git clone https://github.com/ShahanaFarooqui/RTL.git</code></pre>
