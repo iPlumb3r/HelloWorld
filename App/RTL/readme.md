@@ -66,8 +66,11 @@ Update node :
 
 Configuration
 -
+Copy the ```sample-RTL.conf```file :   
+<pre><code>$ sudo cp sample-RTL.conf RTL.conf</code></pre>
+
 Edit the ```RTL.conf```file :   
-<pre><code>$ sudo nano RTL.conf rtl</code></pre>
+<pre><code>$ sudo nano RTL.conf</code></pre>
 
 Complete those 2 lines  :   
 <pre><code>macaroonPath=/home/satoshi/.lnd/data/chain/bitcoin/mainnet</code></pre>
