@@ -103,5 +103,8 @@ Test
 Start "lnd" daemon : 
 <pre><code>$ lnd --bitcoin.active --bitcoin.mainnet --bitcoin.node=bitcoind</code></pre>
 
+Unlock the LN Wallet : 
+<pre><code>$ lncli unlock</code></pre>
+
 Verify that the daemon is listen the "9735" port : 
 <pre><code>$ netstat -anp | grep (LISTEN && 9735)</code></pre>
