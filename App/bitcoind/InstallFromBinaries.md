@@ -15,20 +15,20 @@ Define a ```VERSION``` variable to make following instruction more generic :
 Get the ```bitcoind```zipped binaries :
 <pre><code>$ wget https://bitcoin.org/bin/bitcoin-core-$VERSION/bitcoin-$VERSION-x86_64-linux-gnu.tar.gz<code></pre>
 Unzip the ```bitcoind``` binaries :
-<pre><code>$ tar xzf bitcoin-$VERSION-x86_64-linux-gnu.tar.gz</pre>
+<pre><code>$ tar xzf bitcoin-$VERSION-x86_64-linux-gnu.tar.gz<code></pre>
 Installation instructions
 -
 Install the ```bitcoind``` deamon :
-<pre><code>$ sudo install -t /usr/bin bitcoin-$VERSION/bin/*</pre>
+<pre><code>$ sudo install -t /usr/bin bitcoin-$VERSION/bin/*<code></pre>
 Clean-up instructions
 -
 Clean-up variable and directory :
-<pre><code>$ export VERSION=</pre>
-<pre><code>$ cd ..</pre>
-<pre><code>$ rm -r temp</pre>
+<pre><code>$ export VERSION=<code></pre>
+<pre><code>$ cd ..<code></pre>
+<pre><code>$ rm -r temp<code></pre>
 Test instructions
 -
 Check for the installation directory :
-<pre><code>$ whereis bitcoind bitcoin-cli</pre>
+<pre><code>$ whereis bitcoind bitcoin-cli<code></pre>
 Check for the installed version of the deamon :
-<pre><code>$ bitcoind -versoion</pre>
+<pre><code>$ bitcoind -versoion<code></pre>
