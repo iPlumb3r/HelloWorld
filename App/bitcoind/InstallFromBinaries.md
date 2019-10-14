@@ -21,7 +21,6 @@ Get the ```bitcoind```zipped binaries :
 Unzip the ```bitcoind``` binaries :
 <pre><code>$ tar xzf bitcoin-$VERSION-x86_64-linux-gnu.tar.gz</pre>
 
-
 Installation instructions
 -
 Install the ```bitcoind``` deamon :
