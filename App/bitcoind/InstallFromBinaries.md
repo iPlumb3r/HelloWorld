@@ -31,4 +31,4 @@ Test instructions
 Check for the installation directory :
 <pre><code>$ whereis bitcoind bitcoin-cli</code></pre>
 Check for the installed version of the deamon :
-<pre><code>$ bitcoind -versoion</code></pre>
+<pre><code>$ bitcoind -version</code></pre>
