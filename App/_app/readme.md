@@ -1,4 +1,4 @@
-_aap : Installation Guide (Package-based - Ubuntu/Debian)
+_app : Installation Guide (Package-based - Ubuntu/Debian)
 ==
 Id Card
 -
