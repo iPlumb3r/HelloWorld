@@ -106,5 +106,8 @@ Start "lnd" daemon :
 Unlock the LN Wallet : 
 <pre><code>$ lncli unlock</code></pre>
 
+Check the Wallet balance : 
+<pre><code>$ lncli walletbalance</code></pre>
+
 Verify that the daemon is listen the "9735" port : 
 <pre><code>$ netstat -anp | grep (LISTEN && 9735)</code></pre>
