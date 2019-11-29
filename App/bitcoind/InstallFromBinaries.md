@@ -11,7 +11,7 @@ Create and go the ```temp```sub-directory :
 Fetching instructions
 -
 Define a ```VERSION``` variable to make following instruction more generic :
-<pre><code>$ export VERSION=0.18.1</pre>
+<pre><code>$ export VERSION=0.19.0.1</pre>
 Get the ```bitcoind```zipped binaries :
 <pre><code>$ wget https://bitcoin.org/bin/bitcoin-core-$VERSION/bitcoin-$VERSION-x86_64-linux-gnu.tar.gz</code></pre>
 Unzip the ```bitcoind``` binaries :
