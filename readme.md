@@ -38,5 +38,10 @@ Sections of this repository :
             <td>How-to guides for setting up a Linux-based machine.</td>
             <td>Physical machine and/or virtual machine</td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Tips">Machine</a></td>
+            <td>Some useful tips</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
