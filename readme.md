@@ -39,7 +39,7 @@ Sections of this repository :
             <td>Physical machine and/or virtual machine</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Tips">Machine</a></td>
+            <td><a href="https://github.com/babonet13/HelloWorld/tree/master/Tips">Tips</a></td>
             <td>Some useful tips</td>
             <td></td>
         </tr>
