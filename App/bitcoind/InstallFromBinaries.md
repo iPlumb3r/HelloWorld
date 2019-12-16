@@ -32,3 +32,16 @@ Check for the installation directory :
 <pre><code>$ whereis bitcoind bitcoin-cli</code></pre>
 Check for the installed version of the deamon :
 <pre><code>$ bitcoind -version</code></pre>
+Configuration instructions
+-
+This installation mode do no create any specific configuration file
+Go to the ```satoshi``` user ```home``` directory :
+<pre><code>$ mkdir .bitcoin</code></pre>
+Create the ```bitcoin.conf``` file :
+<pre><code>$ nano .bitcoin/bitcoin.conf</code></pre>
+Add this line :
+<pre><code>datadir=/var/lib/bitcoin</code></pre>
+Create the ```bitcoin``` directory :
+<pre><code>$ sudo mkdir /var/lib/bitcoin</code></pre>
+Make ```satoshi``` user owner of this directory :
+<pre><code>$ sudo chown satoshi /var/lib/bitcoin</code></pre>
