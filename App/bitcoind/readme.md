@@ -45,5 +45,5 @@ Reference(s)
 
 Installation Mode
 -
-<td><a href="https://github.com/babonet13/HelloWorld/blob/master/App/bitcoind/0_InstallFromPackage.md">From Package</a></td>.    
+<td><a href="https://github.com/babonet13/HelloWorld/blob/master/App/bitcoind/0_InstallFromPackage.md">From Package</a></td>.      
 <td><a href="https://github.com/babonet13/HelloWorld/blob/master/App/bitcoind/1_InstallFromBinaries.md">From Binaries</a></td>.    
