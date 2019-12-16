@@ -45,3 +45,13 @@ Create the ```bitcoin``` directory :
 <pre><code>$ sudo mkdir /var/lib/bitcoin</code></pre>
 Make ```satoshi``` user owner of this directory :
 <pre><code>$ sudo chown satoshi /var/lib/bitcoin</code></pre>
+Running instructions
+-
+Start bitcoind in "daemon" mode :
+<pre><code>$ bitcoind -daemon</code></pre>
+
+Display current block number :
+<pre><code>$ bitcoin-cli getblockcount</code></pre>
+
+Stop bitoind :
+<pre><code>$ bitcoin-cli stop</code></pre>
