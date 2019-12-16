@@ -34,7 +34,7 @@ Check for the installed version of the deamon :
 <pre><code>$ bitcoind -version</code></pre>
 Configuration instructions
 -
-This installation mode do no create any specific configuration file
+This installation mode do NOT create any specific configuration file.  
 Go to the ```satoshi``` user ```home``` directory :
 <pre><code>$ mkdir .bitcoin</code></pre>
 Create the ```bitcoin.conf``` file :
