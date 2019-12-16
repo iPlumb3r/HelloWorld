@@ -45,5 +45,5 @@ Reference(s)
 
 Installation Mode
 -
-From Package
-From Binaries
+From Package.  
+From Binaries.  
