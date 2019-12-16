@@ -1,4 +1,4 @@
-Install bitcoind from binaries
+bitcoind (from Binaries)
 ==
 Preparation instructions
 -
