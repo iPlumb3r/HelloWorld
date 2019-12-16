@@ -1,7 +1,5 @@
-bitcoind : Installation Guide (Package-based - Ubuntu/Debian)
+bitcoind (from Package - Ubuntu)
 ==
-
-
 Installation instructions
 -
 Add "bitcoin" repository :
