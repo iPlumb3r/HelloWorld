@@ -22,11 +22,6 @@ Tableau :
             <td>A2</td>
             <td>A3</td>
         </tr>
-        <tr>
-            <td>B1</td>
-            <td>B2</td>
-            <td>B3</td>
-        </tr>
     </tbody>
 </table>
 
