@@ -1,4 +1,4 @@
-Title (od the GitHub Repository)
+Title (of the GitHub Repository)
 ==
 
 Description
