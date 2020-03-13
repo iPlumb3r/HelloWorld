@@ -11,9 +11,9 @@ Tableau :
 <table>
     <thead>
         <tr>
-            <th>H1</th>
-            <th>H2</th>
-            <th>H3</th>
+            <th>Label</th>
+            <th>Description</th>
+            <th>Comment</th>
         </tr>
     </thead>
     <tbody>
