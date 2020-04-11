@@ -1,6 +1,10 @@
 IPFS
 ==
 
+How to instal ipfs-go for Mac?
+-
+
+
 How to instal IPFS Desktop for Mac ?
 -
 https://github.com/ipfs-shipyard/ipfs-desktop
