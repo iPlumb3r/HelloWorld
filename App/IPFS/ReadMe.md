@@ -20,5 +20,5 @@ How to mount an IPFS "file system" on OS X with FUSE ?
 https://github.com/ipfs/go-ipfs/blob/master/docs/fuse.md
 
 For mounting IPFS in a given ```directory```
-<pre><code>$ ipfs daemon --mount --mount-ipfs=~/ipfs --mount-ipns=/Users/hubject/ipns</code></pre>
+<pre><code>$ ipfs daemon --mount --mount-/Users/hubject/ipfs --mount-ipns=/Users/hubject/ipns</code></pre>
 
