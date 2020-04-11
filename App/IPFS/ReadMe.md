@@ -16,4 +16,9 @@ https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/
 
 How to mount an IPFS "file system" on OS X with FUSE ?
 -
-https://github.com/babonet13/HelloWorld/tree/master/App/FUSE
+
+https://github.com/ipfs/go-ipfs/blob/master/docs/fuse.md
+
+For mounting IPFS in a given ```directory```
+<pre><code>$ ipfs daemon --mount --mount-ipfs=~/ipfs --mount-ipns=/Users/hubject/ipns</code></pre>
+
