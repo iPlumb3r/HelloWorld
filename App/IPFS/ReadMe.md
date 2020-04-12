@@ -1,7 +1,7 @@
 IPFS
 ==
 
-How to install IPFS as a Daemon
+How to install IPFS as a Daemon ?
 -
 
 1. Install Go from the macOS package installer :    
@@ -20,12 +20,12 @@ For mounting IPFS in a given ```directory```
 
 <pre><code>$ ipfs daemon --mount --mount-ipfs=/Users/hubject/ipfs --mount-ipns=/Users/hubject/ipns</code></pre>
 
-How to instal IPFS Desktop for Mac ?
+How to instal IPFS as a Mac Desktop Application ?
 -
 https://github.com/ipfs-shipyard/ipfs-desktop
 
 
-How to instal IPFS Companion for Firefox ?
+How to instal IPFS as a Firefox Companion Extention ?
 -
 https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/
 
