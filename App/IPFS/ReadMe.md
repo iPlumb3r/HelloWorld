@@ -1,7 +1,7 @@
 IPFS
 ==
 
-Install IPFS as Command Line
+How to install IPFS as a Daemon
 -
 
 1. Install Go from the macOS package installer :    
