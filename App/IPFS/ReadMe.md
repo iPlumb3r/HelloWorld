@@ -25,7 +25,7 @@ How to instal IPFS as a Mac Desktop Application ?
 https://github.com/ipfs-shipyard/ipfs-desktop
 
 
-How to instal IPFS as a Firefox Companion Extention ?
+How to instal IPFS as a Firefox Companion Extension ?
 -
 https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/
 
