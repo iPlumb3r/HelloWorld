@@ -4,6 +4,12 @@ IPFS
 How to instal ipfs-go for Mac?
 -
 
+1. Install Go from the macOS package installer : 
+https://golang.org/doc/install?download=go1.14.2.darwin-amd64.pkg#install
+
+2. Install ipfs-go from a Prebuilt Package : 
+https://docs.ipfs.io/guides/guides/install/
+
 
 How to instal IPFS Desktop for Mac ?
 -
