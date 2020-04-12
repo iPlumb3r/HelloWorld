@@ -20,6 +20,8 @@ For mounting IPFS in a given ```directory```
 
 <pre><code>$ ipfs daemon --mount --mount-ipfs=/Users/hubject/ipfs --mount-ipns=/Users/hubject/ipns</code></pre>
 
+By default files are stored in ```~/.ipfs``` 
+
 How to instal IPFS as a Mac Desktop Application ?
 -
 https://github.com/ipfs-shipyard/ipfs-desktop
