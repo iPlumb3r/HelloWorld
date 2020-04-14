@@ -31,5 +31,6 @@ How to instal IPFS as a Firefox Companion Extension ?
 -
 https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/
 
-
-
+Tutorial 
+-
+https://gist.github.com/YannBouyeron/53e6d67782dcff5995754b0a7333fa0b
