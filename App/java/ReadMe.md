@@ -9,7 +9,7 @@ https://brew.sh/index_fr
 <pre><code>$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"</code></pre>
 
 2. Installer Cask (Package Manager Companion)   
-https://sourabhbajaj.com/mac-setup/Homebrew/Cask.html
+https://github.com/Homebrew/homebrew-cask
 <pre><code>$ brew tap caskroom/cask</code></pre>
 
 3. Installer jenv   
