@@ -11,6 +11,8 @@ https://brew.sh/index_fr
 2. Installer Cask (Package Manager Companion)   
 https://github.com/Homebrew/homebrew-cask
 <pre><code>$ brew tap caskroom/cask</code></pre>
+ou
+<pre><code>$ brew tap homebrew/cask-versions</code></pre
 
 3. Installer jenv   
 https://www.jenv.be/
