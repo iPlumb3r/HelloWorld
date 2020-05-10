@@ -19,4 +19,5 @@ https://www.jenv.be/
 4. Gérer les versions de Java   
 https://www.it-swarm.dev/fr/java/mac-os-x-et-plusieurs-versions-de-java/1049449791/
 <pre><code>$ brew search Java</code></pre>
-<pre><code>$  brew cask install Java6</code></pre>
+<pre><code>$ brew tap caskroom/versions</code></pre>
+<pre><code>$ brew cask install java6</code></pre>
